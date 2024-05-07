@@ -18,7 +18,7 @@ Fell free to drop me an email: han.hu@monash.edu, agmaiofhuhan@gmail.com if you 
 
 ## Job Market
 
-I am on the job market now, actively looking for a **research scientist** or **postdoc** position in app analysis, LLM or related fields. I am particularly drawn to industry-driven projects and positions that prioritize practical applications over solely contributing top-tier publications. While I am deeply involved in research, I am very confident in my coding and communication skills.
+I am on the job market now, actively looking for a **research scientist** or **postdoc** position in app analysis, LLM or related fields. I am particularly drawn to industry-driven projects and positions in industry that prioritize practical applications over solely contributing top-tier publications. While I am deeply involved in research, I am very confident in my coding and communication skills.
 
 
 ## Publications
