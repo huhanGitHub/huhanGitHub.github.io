@@ -31,7 +31,7 @@ I am on the job market now, actively looking for a **research scientist** or **p
 - [TOSEM'2023] **Han Hu**, et al. "A First Look at On-device Models on iOS." (ICSE 2024-JF, **CCF A**, **CORE A\***)
 - [NeurIPS'2023] **Han Hu**, et al. "Pairwise GUI Dataset Construction Between Android Phones and Tablets." (**CCF A**, **CORE A\***)
 - [WWW'2023]Huang, Yujin, Terry Yue Zhuo, Qiongkai Xu, **Han Hu**, et al. "Training-free Lexical Backdoor Attacks on Language Models." (**CCF A**, **CORE A\***)
-- [TOSEM'2023]**Han Hu**, et al. "Automated Mapping of Adaptive App GUIs from Phone to TV." (ICSE 2024-JF, **CCF A**, **CORE A\***)
+- [TOSEM'2023] **Han Hu**, et al. "Automated Mapping of Adaptive App GUIs from Phone to TV." (ICSE 2024-JF, **CCF A**, **CORE A\***)
 - [ICSE-SEIP'2021] Yujin Huang, **Han Hu**, et al. "Robustness of on-device Models: Adversarial Attack to Deep Learning Models on Android Apps."
 - [TOSEM'2021] Qiuyuan Chen, Xin Xia, **Han Hu**, et al. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction." (**CCF A**, **CORE A\***)
 - [ICONIP'2019] **Han Hu**, et al. "Code Generation from Supervised Code Embeddings." (CCF C, CORE A)
@@ -50,7 +50,7 @@ Monash University,07/2021 - 11/2024 (Flexible), Ph.D. in Computer Science
 
 Tsinghua University, 09/2017 - 06/2020, M.S. in Engineering
 
-University of Electronic Science and Technology of China, 09/2013 - 06/2017, B.S. in Digital Animation
+UESTC, 09/2013 - 06/2017, B.S. in Digital Animation
 
 
 ## Work Experience
