@@ -17,7 +17,7 @@ I am also actively engaged in **code generation** \[[Starcoder2](https://github.
 
 ### Job Market
 
-I am on the job market now, actively looking for a research scientist or postdoc position in app analysis, LLM and related fields. I'm very interested in industrial-driven projects and am less concerned with top-tier publications. Although I am engaged in research, I am very confident in my coding and communication skills.
+I am on the job market now, actively looking for a **research scientist** or **postdoc position** in app analysis, LLM and related fields. I'm very interested in industrial-driven projects and am less concerned with top-tier publications. Although I am engaged in research, I am very confident in my coding and communication skills.
 
 ### Recent Work
 
@@ -26,17 +26,17 @@ Expanding my research scope, I now focus on the analysis of vulnerabilities inhe
 ### Education Background
 
 **Monash University, Melbourne, Australia. July 2021 - November 2024 (Flexible)**  
-**Ph.D. in Computer Science**
+Ph.D. in Computer Science
 - Monash Graduate Scholarship (MGS)
 - Monash International Tuition Scholarship (MITS)
 
 **Tsinghua University, Beijing, China. 2017 - 2020**
-**M.S. in Engineering**
+M.S. in Engineering
 - Highest Prize in NASAC 2018 (Top Academic Competition of Static Analysis in China)
 - Tsinghua-VMware Scholarship (First-Class Scholarship)
 
 **University of Electronic Science and Technology of China, Chengdu, China. 2013 - 2017**  
-**B.S. in Digital Animation**
+B.S. in Digital Animation
 - Computer Science Core GPA: 88.91/100 (ranks 2/29 in my major)
 - Outstanding Graduate of UESTC
 
@@ -53,24 +53,23 @@ Expanding my research scope, I now focus on the analysis of vulnerabilities inhe
 - Qiuyuan Chen, **Han Hu**, et al. "Code Summarization with Abstract Syntax Tree." (ICONIP 2019, CCF C, CORE A)
 - Zhaoyi Liu, Qiuyuan Chen, **Han Hu**. "Teacher-Student Learning and Post-Processing for Robust BiLSTM Mask-Based Acoustic Beamforming." (ICONIP 2019, CCF C, CORE A)
 
-  #### Under Review
+  ### Under Review
 - fist author LLM-based pub * 1 (Core A*, CCF A)
 - corresponding auther pub * 2 (Core A*, CCF A)
 
 ### Work Experience
 
 **Monash University, Melbourne, Australia. March 2022 - Present** 
-**Teaching Associate & Assistant Lecturer**
+Teaching Associate & Assistant Lecturer
 - Units: FIT2081 - Mobile Application Development; FIT2095 - e-Business Software Technologies; FIT3077 - Software Engineering: Architecture and Design
 
 **Ji Hua Laboratory, Foshan, China. June 2020 - June 2021** 
-**Researcher & Developer**
+Researcher & Developer
 - Developed cutting-edge interdisciplinary systems that combine deep learning and optics.
 
 ### Patents
-
 **Method, System, Electronic Device, and Storage Medium for Predicting Properties of Luminescent Materials**  
-*Publication Nos. CN112396134B and CN113470761B*
+Publication Nos. CN112396134B and CN113470761B
 - Two granted Chinese invention patents, first author
 
 
