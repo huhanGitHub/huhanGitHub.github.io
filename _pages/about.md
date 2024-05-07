@@ -27,16 +27,16 @@ I am on the job market now, actively looking for a **research scientist** or **p
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-- **Han Hu**, et al. "Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey." (TOSEM 2024, **CCF A**, **CORE A\***)
-- **Han Hu**, et al. "A First Look at On-device Models on iOS." (TOSEM 2023, ICSE 2024-JF, **CCF A**, **CORE A\***)
-- **Han Hu**, et al. "Pairwise GUI Dataset Construction Between Android Phones and Tablets." (NeurIPS 2023, **CCF A**, **CORE A\***)
-- Huang, Yujin, Terry Yue Zhuo, Qiongkai Xu, **Han Hu**, et al. "Training-free Lexical Backdoor Attacks on Language Models." (WWW 2023, **CCF A**, **CORE A\***)
-- **Han Hu**, et al. "Automated Mapping of Adaptive App GUIs from Phone to TV." (TOSEM 2023, ICSE 2024-JF, **CCF A**, **CORE A\***)
-- Yujin Huang, **Han Hu**, et al. "Robustness of on-device Models: Adversarial Attack to Deep Learning Models on Android Apps." (ICSE-SEIP 2021)
-- Qiuyuan Chen, Xin Xia, **Han Hu**, et al. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction." (TOSEM 2021, **CCF A**, **CORE A\***)
-- **Han Hu**, et al. "Code Generation from Supervised Code Embeddings." (ICONIP 2019, CCF C, CORE A)
-- Qiuyuan Chen, **Han Hu**, et al. "Code Summarization with Abstract Syntax Tree." (ICONIP 2019, CCF C, CORE A)
-- Zhaoyi Liu, Qiuyuan Chen, **Han Hu**. "Teacher-Student Learning and Post-Processing for Robust BiLSTM Mask-Based Acoustic Beamforming." (ICONIP 2019, CCF C, CORE A)
+- [TOSEM'2024] **Han Hu**, et al. "Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey." (**CCF A**, **CORE A\***)
+- [TOSEM'2023] **Han Hu**, et al. "A First Look at On-device Models on iOS." (ICSE 2024-JF, **CCF A**, **CORE A\***)
+- [NeurIPS'2023] **Han Hu**, et al. "Pairwise GUI Dataset Construction Between Android Phones and Tablets." (**CCF A**, **CORE A\***)
+- [WWW'2023]Huang, Yujin, Terry Yue Zhuo, Qiongkai Xu, **Han Hu**, et al. "Training-free Lexical Backdoor Attacks on Language Models." (**CCF A**, **CORE A\***)
+- [TOSEM'2023]**Han Hu**, et al. "Automated Mapping of Adaptive App GUIs from Phone to TV." (ICSE 2024-JF, **CCF A**, **CORE A\***)
+- [ICSE-SEIP'2021] Yujin Huang, **Han Hu**, et al. "Robustness of on-device Models: Adversarial Attack to Deep Learning Models on Android Apps."
+- [TOSEM'2021] Qiuyuan Chen, Xin Xia, **Han Hu**, et al. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction." (**CCF A**, **CORE A\***)
+- [ICONIP'2019] **Han Hu**, et al. "Code Generation from Supervised Code Embeddings." (CCF C, CORE A)
+- [ICONIP'2019] Qiuyuan Chen, **Han Hu**, et al. "Code Summarization with Abstract Syntax Tree." (CCF C, CORE A)
+- [ICONIP'2019] Zhaoyi Liu, Qiuyuan Chen, **Han Hu**. "Teacher-Student Learning and Post-Processing for Robust BiLSTM Mask-Based Acoustic Beamforming." (ICONIP 2019, CCF C, CORE A)
 
   ### Under Review
 - StarCoder 2 and The Stack v2: The Next Generation (co-author)
@@ -46,36 +46,18 @@ I am on the job market now, actively looking for a **research scientist** or **p
 
 ## Education Background
 
-**Monash University, Melbourne, Australia. July 2021 - November 2024 (Flexible)**  
+Monash University,07/2021 - 11/2024 (Flexible), Ph.D. in Computer Science
 
-Ph.D. in Computer Science
-- Monash Graduate Scholarship (MGS)
-- Monash International Tuition Scholarship (MITS)
+Tsinghua University, 09/2017 - 06/2020, M.S. in Engineering
 
-**Tsinghua University, Beijing, China. 2017 - 2020**
-
-M.S. in Engineering
-- Highest Prize in NASAC 2018 (Top Academic Competition of Static Analysis in China)
-- Tsinghua-VMware Scholarship (First-Class Scholarship)
-
-**University of Electronic Science and Technology of China, Chengdu, China. 2013 - 2017**  
-
-B.S. in Digital Animation
-- Computer Science Core GPA: 88.91/100 (ranks 2/29 in my major)
-- Outstanding Graduate of UESTC
+University of Electronic Science and Technology of China, 09/2013 - 06/2017, B.S. in Digital Animation
 
 
 ## Work Experience
 
-**Monash University, Melbourne, Australia. March 2022 - Present** 
+Monash University, 03/2022 - Present, Teaching Associate & Assistant Lecturer
 
-Teaching Associate & Assistant Lecturer
-- Units: FIT2081 - Mobile Application Development; FIT2095 - e-Business Software Technologies; FIT3077 - Software Engineering: Architecture and Design
-
-**Ji Hua Laboratory, Foshan, China. June 2020 - June 2021** 
-
-Researcher & Developer
-- Developed cutting-edge interdisciplinary systems that combine deep learning and optics.
+Ji Hua Laboratory, 06/2020 - 07/2021, Researcher & Developer
 
 
 ## Academic Service
@@ -95,10 +77,7 @@ Researcher & Developer
 
 
 ## Patents
-**Method, System, Electronic Device, and Storage Medium for Predicting Properties of Luminescent Materials**  
-
-Publication Nos. CN112396134B and CN113470761B
-- Two granted Chinese invention patents, first author
+Method, System, Electronic Device, and Storage Medium for Predicting Properties of Luminescent Materials, Publication Nos. CN112396134B and CN113470761B
 
 
 ## Personal life
