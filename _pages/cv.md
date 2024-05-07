@@ -9,7 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
----
-title: "CV"
-paperurl: 'https://github.com/huhanGitHub/huhan.github.io/tree/master/files/resume_eng.pdf'
----
+[CV](https://github.com/huhanGitHub/huhan.github.io/tree/master/files/resume_eng.pdf)
