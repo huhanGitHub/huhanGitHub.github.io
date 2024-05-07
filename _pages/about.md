@@ -46,7 +46,7 @@ I am on the job market now, actively looking for a **research scientist** or **p
 
 ## Education Background
 
-Monash University,07/2021 - 11/2024 (Flexible), Ph.D. in Computer Science
+Monash University, 07/2021 - 11/2024 (flexible), Ph.D. in Computer Science
 
 Tsinghua University, 09/2017 - 06/2020, M.S. in Engineering
 
