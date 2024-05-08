@@ -16,9 +16,10 @@ Key projects include the **cross-platform GUI adaptation and exploration** \[TOS
 Fell free to drop me an email: han.hu@monash.edu, agmaiofhuhan@gmail.com if you would like to talk to me. 
 
 
-## Job Market
+## Actively Seeking Full-time Employment
 
-I am on the job market now, actively looking for a **research scientist** or **postdoc** position in app analysis, LLM or related fields. I am particularly drawn to industry-driven projects and positions in industry that prioritize practical applications over solely contributing top-tier publications. While I am deeply involved in research, I am very confident in my coding and communication skills.
+I am on the job market now, actively seeking positions as a **Research Scientist**, **Research Engineer** or **Postdoc**. My areas of interest include Code Generation, App Analysis, the establishment of LLM benchmarks and datasets, LLM-driven product development or related fields.
+I am particularly drawn to industry-driven projects and positions in industry that prioritize practical applications over solely contributing top-tier publications. While I am deeply involved in research, I am very confident in my coding and communication skills. Before starting my PhD, I accumulated one year of full-time work experience as a Research & Developer in industry.
 
 
 ## Publications
