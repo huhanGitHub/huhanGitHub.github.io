@@ -22,6 +22,12 @@ I am on the job market now, actively seeking positions as a **Research Scientist
 I am particularly drawn to industry-driven projects and positions in industry that prioritize practical applications over solely contributing top-tier publications. While I am deeply involved in research, I am very confident in my coding and communication skills. Before starting my PhD, I accumulated one year of full-time work experience as a Research & Developer in industry.
 
 
+## Latest News
+
+- **May, 2024:** I will serve as a paper reviewer in NeurIPS-2024. Thanks for the invitation.
+- **May, 2024:** One paper has been accepted in TOSEM.
+
+
 ## Publications
 
 {% if site.author.googlescholar %}
@@ -35,6 +41,8 @@ I am particularly drawn to industry-driven projects and positions in industry th
 - [TOSEM'2023] **Han Hu**, et al. "Automated Mapping of Adaptive App GUIs from Phone to TV." (ICSE 2024-JF, **CCF A**, **CORE A\***)
 - [ICSE-SEIP'2021] Yujin Huang, **Han Hu**, et al. "Robustness of on-device Models: Adversarial Attack to Deep Learning Models on Android Apps."
 - [TOSEM'2021] Qiuyuan Chen, Xin Xia, **Han Hu**, et al. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction." (**CCF A**, **CORE A\***)
+
+- ### Before PhD
 - [ICONIP'2019] **Han Hu**, et al. "Code Generation from Supervised Code Embeddings." (CCF C, CORE A)
 - [ICONIP'2019] Qiuyuan Chen, **Han Hu**, et al. "Code Summarization with Abstract Syntax Tree." (CCF C, CORE A)
 - [ICONIP'2019] Zhaoyi Liu, Qiuyuan Chen, **Han Hu**. "Teacher-Student Learning and Post-Processing for Robust BiLSTM Mask-Based Acoustic Beamforming." (ICONIP 2019, CCF C, CORE A)
@@ -47,7 +55,7 @@ I am particularly drawn to industry-driven projects and positions in industry th
 
 ## Education Background
 
-Monash University, 07/2021 - 11/2024 (flexible), Ph.D. in Computer Science
+Monash University, 07/2021 - 11/2024, Ph.D. in Computer Science
 
 Tsinghua University, 09/2017 - 06/2020, M.S. in Engineering
 
@@ -80,7 +88,7 @@ Ji Hua Laboratory, 06/2020 - 07/2021, Researcher & Developer
 ## Patents
 Method, System, Electronic Device, and Storage Medium for Predicting Properties of Luminescent Materials, Publication Nos. CN112396134B and CN113470761B
 
-
+<!--
 ## Personal life
 My friends call me han cha (晗恰), duck brother (鸭哥) or old hu. I'm a typical Sichuanese who enjoys humor, making jokes, chatting casually, good food, and touching fish. 
-
+-->
