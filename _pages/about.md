@@ -55,11 +55,11 @@ I am particularly drawn to industry-driven projects and positions in industry th
 
 ## Education Background
 
-Monash University, 07/2021 - 11/2024, Ph.D. in Computer Science
+Monash University, 07/2021 - 11/2024, Ph.D. in Computer Science.
 
-Tsinghua University, 09/2017 - 06/2020, M.S. in Engineering
+Tsinghua University, 09/2017 - 06/2020, M.S. in Engineering.
 
-UESTC, 09/2013 - 06/2017, B.S. in Digital Animation (We spent 1.5 years learning about aesthetics, colors, and composition, and how to paint with watercolors! It was an cool and memorable time !!)
+UESTC, 09/2013 - 06/2017, B.S. in Digital Animation. (We spent 1.5 years learning about aesthetics, colors, and composition, and how to paint with watercolors! It was an cool and memorable time !!)
 
 
 ## Work Experience
