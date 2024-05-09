@@ -11,7 +11,7 @@ redirect_from:
 
 I am **Han Hu**, Chinese 胡晗, a final year PhD student at Monash University, Australia.  
 My research primarily focuses on **mobile application analysis**, including **static program analysis**, **cross-platform (Android, iOS) app analysis**, **dynamic GUI analysis**, and developing **AI** & **Large Language Model (LLM)**--assisted approaches to enhance existing program analysis approaches for mobile apps.  
-Key projects include the **cross-platform GUI adaptation and exploration** \[TOSEM'2024, NeurIPS'2023, TOSEM'2023\] and the **analysis of vulnerabilities in on-device models** \[TOSEM'2023, WWW'2022, ICSE'2021\]. I am also actively engaged in **benchmark construction of LLM**, like code generation and code comment generation \[[Starcoder2](https://github.com/bigcode-project/starcoder2), TOSEM'2021, ICONIP'2019\].
+Key projects include the **cross-platform GUI adaptation and exploration** \[TOSEM'2024, NeurIPS'2023, TOSEM'2023\] and the **analysis of vulnerabilities in on-device models** \[TOSEM'2023, WWW'2022, ICSE'2021\]. I am also actively engaged in **benchmark construction of LLMs**, focusing on tasks such as code generation and code comment generation \[[Starcoder2](https://github.com/bigcode-project/starcoder2), TOSEM'2021, ICONIP'2019\].
 
 Fell free to drop me an email: han.hu@monash.edu, agmaiofhuhan@gmail.com if you would like to talk to me. 
 
@@ -59,7 +59,7 @@ Monash University, 07/2021 - 11/2024, Ph.D. in Computer Science
 
 Tsinghua University, 09/2017 - 06/2020, M.S. in Engineering
 
-UESTC, 09/2013 - 06/2017, B.S. in Digital Animation (We spent one year learning about aesthetics, colors, and composition, and how to paint with watercolors！ It was an amazing and memorable time!!)
+UESTC, 09/2013 - 06/2017, B.S. in Digital Animation (We spent 1.5 years learning about aesthetics, colors, and composition, and how to paint with watercolors! It was an cool and memorable time !!)
 
 
 ## Work Experience
