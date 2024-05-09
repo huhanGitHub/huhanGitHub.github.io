@@ -10,8 +10,8 @@ redirect_from:
 ## About Me
 
 I am **Han Hu**, Chinese 胡晗, a final year PhD student at Monash University, Australia.  
-My research primarily focuses on **mobile application (app) analysis**, including **static program analysis**, **cross-platform (Android, iOS) app analysis**, **dynamic GUI analysis**, and developing **AI** & **Large Language Model (LLM)**--assisted approaches to enhance existing program analysis approaches for mobile apps.  
-Key projects include the **cross-platform GUI adaptation and exploration** \[TOSEM'2024, NeurIPS'2023, TOSEM'2023\] and the **analysis of vulnerabilities in on-device models** \[TOSEM'2023, WWW'2022, ICSE'2021\]. I am also actively engaged in **code generation** \[[Starcoder2](https://github.com/bigcode-project/starcoder2), TOSEM'2021, ICONIP'2019\].
+My research primarily focuses on **mobile application analysis**, including **static program analysis**, **cross-platform (Android, iOS) app analysis**, **dynamic GUI analysis**, and developing **AI** & **Large Language Model (LLM)**--assisted approaches to enhance existing program analysis approaches for mobile apps.  
+Key projects include the **cross-platform GUI adaptation and exploration** \[TOSEM'2024, NeurIPS'2023, TOSEM'2023\] and the **analysis of vulnerabilities in on-device models** \[TOSEM'2023, WWW'2022, ICSE'2021\]. I am also actively engaged in **benchmark construction of LLM**, like code generation and code comment generation \[[Starcoder2](https://github.com/bigcode-project/starcoder2), TOSEM'2021, ICONIP'2019\].
 
 Fell free to drop me an email: han.hu@monash.edu, agmaiofhuhan@gmail.com if you would like to talk to me. 
 
@@ -24,7 +24,7 @@ I am particularly drawn to industry-driven projects and positions in industry th
 
 ## Latest News
 
-- **May, 2024:** I will serve as a paper reviewer in NeurIPS-2024. Thanks for the invitation.
+- **May, 2024:** I will serve as a paper reviewer in NeurIPS'2024. Thanks for the invitation.
 - **May, 2024:** One paper has been accepted in TOSEM.
 
 
@@ -47,7 +47,7 @@ I am particularly drawn to industry-driven projects and positions in industry th
 - [ICONIP'2019] Qiuyuan Chen, **Han Hu**, et al. "Code Summarization with Abstract Syntax Tree." (CCF C, CORE A)
 - [ICONIP'2019] Zhaoyi Liu, Qiuyuan Chen, **Han Hu**. "Teacher-Student Learning and Post-Processing for Robust BiLSTM Mask-Based Acoustic Beamforming." (ICONIP 2019, CCF C, CORE A)
 
-  ### Under Review
+  ### Under Review & In Progress
 - StarCoder 2 and The Stack v2: The Next Generation (co-author)
 - first author LLM-based pub * 1 (Core A*, CCF A)
 - corresponding author pub * 2 (Core A*, CCF A)
@@ -59,36 +59,35 @@ Monash University, 07/2021 - 11/2024, Ph.D. in Computer Science
 
 Tsinghua University, 09/2017 - 06/2020, M.S. in Engineering
 
-UESTC, 09/2013 - 06/2017, B.S. in Digital Animation
+UESTC, 09/2013 - 06/2017, B.S. in Digital Animation (We spent one year learning about aesthetics, colors, and composition, and how to paint with watercolors！ It was an amazing and memorable time!!)
 
 
 ## Work Experience
 
-Monash University, 03/2022 - Present, Teaching Associate & Assistant Lecturer
-
 Ji Hua Laboratory, 06/2020 - 07/2021, Researcher & Developer
 
+Monash University, 03/2022 - Present, Teaching Associate & Assistant Lecturer (part-time)
 
 ## Academic Service
 
 ### **Program Committee**
-- ACL-2020, 2023 (CCF A, CORE A\*)
-- EMNLP-2023 (CCF A, CORE A\*)
-- AACL-IJCNLP-2020, 2022, 2023 (CCF C, CORE B)
-- ICONIP-2019 (CCF C, CORE A)
+- ACL'2020, 2023 (CCF A, CORE A\*)
+- EMNLP'2023 (CCF A, CORE A\*)
+- AACL-IJCNLP'2020, 2022, 2023 (CCF C, CORE B)
+- ICONIP'2019 (CCF C, CORE A)
 
 ### **Paper Reviewer**
-- NeurIPS-2024 (CCF A, CORE A\*)
-- SIGIR-2023 (CCF A, CORE A\*)
-- SANER-2023 (CCF B, CORE A)
-- EACL-2023 (CORE A)
-- EMNLP-2022, 2023 (CCF A, CORE A\*)
+- NeurIPS'2024 (CCF A, CORE A\*)
+- SIGIR'2023 (CCF A, CORE A\*)
+- SANER'2023 (CCF B, CORE A)
+- EACL'2023 (CORE A)
+- EMNLP'2022, 2023 (CCF A, CORE A\*)
 
 
 ## Patents
 Method, System, Electronic Device, and Storage Medium for Predicting Properties of Luminescent Materials, Publication Nos. CN112396134B and CN113470761B
 
-<!--
+
 ## Personal life
-My friends call me han cha (晗恰), duck brother (鸭哥) or old hu. I'm a typical Sichuanese who enjoys humor, making jokes, chatting casually, good food, and touching fish. 
--->
+My friends call me han cha (晗恰), duck brother (鸭哥) or old hu. I'm a typical Sichuanese who enjoys humor, making jokes, chatting casually, good food, and sometimes touching fish. 
+
