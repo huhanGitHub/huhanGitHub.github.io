@@ -19,7 +19,7 @@ Fell free to drop me an email: han.hu@monash.edu, agmaiofhuhan@gmail.com if you 
 ## Actively Seeking Full-time Employment
 
 I am on the job market now, actively seeking positions as a **Research Scientist**, **Research Engineer** or **Postdoc**. My areas of interest include Code Generation, App Analysis, the establishment of LLM benchmarks and datasets, LLM-driven product development or related fields.
-I am particularly drawn to industry-driven projects and positions in industry that prioritize practical applications over solely contributing top-tier publications. While I am deeply involved in research, I am very confident in my coding and communication skills. Before starting my PhD, I accumulated one year of full-time work experience as a Research & Developer in industry.
+I am particularly drawn to industry-driven projects and positions in industry that prioritize practical applications over solely contributing top-tier publications. While I am deeply involved in research, I am very confident in my coding and communication skills. Before starting my PhD, I accumulated one year of full-time work experience as a Researcher & Developer in industry.
 
 
 ## Latest News
