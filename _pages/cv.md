@@ -44,7 +44,7 @@ Monash University, 03/2022 - Present, Teaching Associate & Assistant Lecturer (p
 
 
 ## Patents
-Method, System, Electronic Device, and Storage Medium for Predicting Properties of Luminescent Materials, Publication Nos. CN112396134B and CN113470761B
+Method, System, Electronic Device, and Storage Medium for Predicting Properties of Luminescent Materials, Publication Nos. CN112396134B (first author) and CN113470761B
 
 
 ## Personal life
