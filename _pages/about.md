@@ -19,7 +19,7 @@ Fell free to drop me an email: han.hu@monash.edu, agmaiofhuhan@gmail.com if you 
 ## Actively Seeking Full-time Employment
 
 I am currently on the job market, actively pursuing opportunities as a **Research Scientist**, **Research Engineer** or **Postdoc**. My expertise centers around Code Generation, App Analysis, establishing LLM benchmarks and datasets, and LLM-driven product development, among other related areas.
-I have a strong inclination towards industry-driven projects and roles that emphasize practical applications beyond solely top-tier academical publications. While I am deeply involved in research, I am very confident in my coding and communication skills. Before starting my PhD, I accumulated one year of full-time work experience as a Researcher & Developer in industry. \
+I have a strong inclination towards industry-driven projects and roles that emphasize practical applications beyond solely top-tier academical publications. While I am deeply involved in research, I am very confident in my coding and communication skills. Before starting my PhD, I accumulated one year of full-time work experience as a Researcher & Developer in industry.
 
 If there is an opening in your team that aligns with my skills, please feel free to contact me to arrange an interview.
 
