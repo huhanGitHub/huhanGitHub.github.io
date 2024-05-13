@@ -14,11 +14,14 @@ redirect_from:
 
 ## Education Background
 
-Monash University, 07/2021 - 11/2024, Ph.D. in Computer Science.
+Monash University, 07/2021 - 11/2024, Ph.D. in Computer Science. \
+Main supervised by Prof. Chunyang Chen (Now at Technical University of Munich) and co-supervised by Dr. Xiao Chen (Now at University of Newcastle). I would also like to express my appreciation to Prof. John Groundy (Monash University) and Dr. Qiuyuan Chen (Tencent) for their help during the early stage of my PhD. 
 
-Tsinghua University, 09/2017 - 06/2020, M.S. in Engineering.
+Tsinghua University, 09/2017 - 06/2020, M.S. in Engineering. \
+Main supervised by Prof. Min Gu and co-supervised by Assoc. Prof. Min Zhou. 
 
-UESTC, 09/2013 - 06/2017, B.S. in Digital Animation. (We spent 1.5 years learning about aesthetics, colors, and composition, and how to paint with watercolors! It was an cool and memorable time !!)
+UESTC, 09/2013 - 06/2017, B.S. in Digital Animation. \
+We spent 1.5 years learning about aesthetics, colors, and composition, and how to paint with watercolors! It was an cool and memorable time !!!
 
 
 ## Work Experience
