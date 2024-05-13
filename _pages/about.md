@@ -41,7 +41,6 @@ I am particularly drawn to industry-driven projects and positions in industry th
 
 
   ### Under Review & In Progress
-- StarCoder 2 and The Stack v2: The Next Generation (co-author)
 - first author LLM4SE-based pub * 1 (Core A*, CCF A)
 - corresponding author pub * 2 (Core A*, CCF A)
 
