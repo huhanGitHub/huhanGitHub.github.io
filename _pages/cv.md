@@ -15,7 +15,8 @@ redirect_from:
 ## Education Background
 
 Monash University, 07/2021 - 11/2024, Ph.D. in Computer Science. \
-Main supervised by Prof. Chunyang Chen (Now at Technical University of Munich) and co-supervised by Dr. Xiao Chen (Now at University of Newcastle). I would also like to express my appreciation to Prof. John Groundy (Monash University) and Dr. Qiuyuan Chen (Tencent) for their help during the early stage of my PhD. 
+Main supervised by Prof. Chunyang Chen (Now at Technical University of Munich) and co-supervised by Dr. Xiao Chen (Now at University of Newcastle). 
+<!--I would also like to express my appreciation to Prof. John Groundy (Monash University) and Dr. Qiuyuan Chen (Tencent) for their help during the early stage of my PhD. -->
 
 Tsinghua University, 09/2017 - 06/2020, M.S. in Engineering. \
 Main supervised by Prof. Min Gu and co-supervised by Assoc. Prof. Min Zhou. 
