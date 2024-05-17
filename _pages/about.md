@@ -37,45 +37,44 @@ If there is an opening in your team that aligns with my skills, please feel free
 {% endif %}
 
 
-4. **Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey**  
+(4) **Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey**  
    <a href="#" style="text-decoration: none; color: blue;">Paper</a> | 
    <a href="#" style="text-decoration: none; color: blue;">Code</a> | 
    <a href="#" style="text-decoration: none; color: blue;">Media</a>
    
-   Han Hu, Han Wang, Ruiqi Dong, Xiao Chen, Chunyang Chen  
+   **Han Hu**, Han Wang, Ruiqi Dong, Xiao Chen, Chunyang Chen  
    
    **TOSEM 2024** (**CCF A**, **CORE A***)
 
 ---
 
-3. **A First Look at On-device Models on iOS**  
+(3) **A First Look at On-device Models on iOS**  
    <a href="#" style="text-decoration: none; color: blue;">Paper</a> | 
    <a href="#" style="text-decoration: none; color: blue;">Code</a> | 
    <a href="#" style="text-decoration: none; color: blue;">Media</a>
    
-   Han Hu, Yujin Huang, Qiuyuan Chen, Terry Yue Zhuo, Chunyang Chen  
+   **Han Hu**, Yujin Huang, Qiuyuan Chen, Terry Yue Zhuo, Chunyang Chen  
    
    **TOSEM 2023** (**CCF A**, **CORE A***, ICSE 2024-JF)
 
 ---
-
-2. **Pairwise GUI Dataset Construction Between Android Phones and Tablets**  
+(2) **Pairwise GUI Dataset Construction Between Android Phones and Tablets**  
    <a href="#" style="text-decoration: none; color: blue;">Paper</a> | 
    <a href="#" style="text-decoration: none; color: blue;">Code</a> | 
    <a href="#" style="text-decoration: none; color: blue;">Media</a>
    
-   Han Hu, Haolan Zhan, Yujin Huang, Di Liu  
+   **Han Hu**, Haolan Zhan, Yujin Huang, Di Liu  
    
    **NeurIPS 2023** (**CCF A**, **CORE A***, Dataset)
 
 ---
 
-1. **Automated Mapping of Adaptive App GUIs from Phone to TV**  
+(1) **Automated Mapping of Adaptive App GUIs from Phone to TV**  
    <a href="#" style="text-decoration: none; color: blue;">Paper</a> | 
    <a href="#" style="text-decoration: none; color: blue;">Code</a> | 
    <a href="#" style="text-decoration: none; color: blue;">Media</a>
    
-   Han Hu, Ruiqi Dong, John Grundy, Thai Minh Nguyen, Huaxiao Liu, Chunyang Chen  
+   **Han Hu**, Ruiqi Dong, John Grundy, Thai Minh Nguyen, Huaxiao Liu, Chunyang Chen  
    
    **TOSEM 2023** (**CCF A**, **CORE A***, ICSE 2024-JF)
 
