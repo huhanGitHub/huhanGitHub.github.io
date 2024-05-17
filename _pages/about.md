@@ -36,36 +36,48 @@ If there is an opening in your team that aligns with my skills, please feel free
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-(4). **Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey** [Paper](#) | [Code](#) | [Media](#)  
+
+4. **Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey**  
+   <a href="#" style="text-decoration: none; color: blue;">Paper</a> | 
+   <a href="#" style="text-decoration: none; color: blue;">Code</a> | 
+   <a href="#" style="text-decoration: none; color: blue;">Media</a>
    
    Han Hu, Han Wang, Ruiqi Dong, Xiao Chen, Chunyang Chen  
    
-   **TOSEM 2024** (**CCF A**, **CORE A\***)
+   **TOSEM 2024** (**CCF A**, **CORE A***)
 
 ---
 
-(3). **A First Look at On-device Models on iOS** [Paper](#) | [Code](#) | [Media](#)  
+3. **A First Look at On-device Models on iOS**  
+   <a href="#" style="text-decoration: none; color: blue;">Paper</a> | 
+   <a href="#" style="text-decoration: none; color: blue;">Code</a> | 
+   <a href="#" style="text-decoration: none; color: blue;">Media</a>
    
    Han Hu, Yujin Huang, Qiuyuan Chen, Terry Yue Zhuo, Chunyang Chen  
    
-   **TOSEM 2023** (**CCF A**, **CORE A\***, ICSE 2024-JF)
+   **TOSEM 2023** (**CCF A**, **CORE A***, ICSE 2024-JF)
 
 ---
 
-(2). **Pairwise GUI Dataset Construction Between Android Phones and Tablets** [Paper](#) | [Code](#) | [Media](#)  
+2. **Pairwise GUI Dataset Construction Between Android Phones and Tablets**  
+   <a href="#" style="text-decoration: none; color: blue;">Paper</a> | 
+   <a href="#" style="text-decoration: none; color: blue;">Code</a> | 
+   <a href="#" style="text-decoration: none; color: blue;">Media</a>
    
    Han Hu, Haolan Zhan, Yujin Huang, Di Liu  
    
-   **NeurIPS 2023** (**CCF A**, **CORE A\***, Dataset)
+   **NeurIPS 2023** (**CCF A**, **CORE A***, Dataset)
 
 ---
 
-(1). **Automated Mapping of Adaptive App GUIs from Phone to TV** [Paper](#) | [Code](#) | [Media](#)  
+1. **Automated Mapping of Adaptive App GUIs from Phone to TV**  
+   <a href="#" style="text-decoration: none; color: blue;">Paper</a> | 
+   <a href="#" style="text-decoration: none; color: blue;">Code</a> | 
+   <a href="#" style="text-decoration: none; color: blue;">Media</a>
    
    Han Hu, Ruiqi Dong, John Grundy, Thai Minh Nguyen, Huaxiao Liu, Chunyang Chen  
    
-   **TOSEM 2023** (**CCF A**, **CORE A\***, ICSE 2024-JF)
-
+   **TOSEM 2023** (**CCF A**, **CORE A***, ICSE 2024-JF)
 
 
 
