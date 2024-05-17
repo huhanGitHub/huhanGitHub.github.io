@@ -36,6 +36,8 @@ If there is an opening in your team that aligns with my skills, please feel free
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+---
+
 
 (4) **Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey**  
    <a href="#" style="text-decoration: none; color: blue;">Paper</a> | 
