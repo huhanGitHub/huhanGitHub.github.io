@@ -42,6 +42,7 @@ If there is an opening in your team that aligns with my skills, please feel free
 (4) Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey. <a href="#" style="text-decoration: none; color: blue;">Paper</a> | 
    <a href="#" style="text-decoration: none; color: blue;">Code</a> | 
    <a href="#" style="text-decoration: none; color: blue;">Media</a>
+   
    **Han Hu**, Han Wang, Ruiqi Dong, Xiao Chen, Chunyang Chen  
    **TOSEM 2024** (**CCF A**, **CORE A***)
 
