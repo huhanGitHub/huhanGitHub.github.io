@@ -39,7 +39,7 @@ If there is an opening in your team that aligns with my skills, please feel free
 ---
 
 
-(4) **Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey**<br>
+**Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey**<br>
 <a href="#" style="text-decoration: none; color: blue;">Paper</a> |
 <a href="#" style="text-decoration: none; color: blue;">Code</a> |
 <a href="#" style="text-decoration: none; color: blue;">Media</a><br>
@@ -48,7 +48,7 @@ If there is an opening in your team that aligns with my skills, please feel free
 
 ---
 
-(3) **A First Look at On-device Models on iOS**<br>
+**A First Look at On-device Models on iOS**<br>
 <a href="#" style="text-decoration: none; color: blue;">Paper</a> | 
 <a href="#" style="text-decoration: none; color: blue;">Code</a> | 
 <a href="#" style="text-decoration: none; color: blue;">Media</a><br>
@@ -57,7 +57,7 @@ If there is an opening in your team that aligns with my skills, please feel free
 
 ---
 
-(2) **Pairwise GUI Dataset Construction Between Android Phones and Tablets**<br>
+**Pairwise GUI Dataset Construction Between Android Phones and Tablets**<br>
 <a href="#" style="text-decoration: none; color: blue;">Paper</a> | 
 <a href="#" style="text-decoration: none; color: blue;">Code</a> | 
 <a href="#" style="text-decoration: none; color: blue;">Media</a><br>
@@ -66,7 +66,7 @@ If there is an opening in your team that aligns with my skills, please feel free
 
 ---
 
-(1) **Automated Mapping of Adaptive App GUIs from Phone to TV**<br>
+**Automated Mapping of Adaptive App GUIs from Phone to TV**<br>
 <a href="#" style="text-decoration: none; color: blue;">Paper</a> | 
 <a href="#" style="text-decoration: none; color: blue;">Code</a> | 
 <a href="#" style="text-decoration: none; color: blue;">Media</a><br>
