@@ -76,8 +76,3 @@ ICONIP'2019 (CCF C, CORE A)
 **Teacher-Student Learning and Post-Processing for Robust BiLSTM Mask-Based Acoustic Beamforming**<br>
 Zhaoyi Liu, Qiuyuan Chen, <span style="font-weight: bold;">Han Hu</span>, Haoyu Tang, YX Zou<br>
 ICONIP'2019 (CCF C, CORE A)
-
-### Under Review & In Progress
-- StarCoder 2 and The Stack v2: The Next Generation (co-author)
-- first author LLM4SE-based pub * 1 (Core A*, CCF A)
-- corresponding author pub * 2 (Core A*, CCF A)
