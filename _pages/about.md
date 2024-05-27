@@ -73,10 +73,9 @@ If there is an opening in your team that aligns with my skills, please feel free
 <span style="font-weight: bold;">Han Hu</span>, Ruiqi Dong, John Grundy, Thai Minh Nguyen, Huaxiao Liu, Chunyang Chen<br>
 <strong>TOSEM 2023 (CCF A, CORE A*, ICSE 2024-JF)</strong>
 
-
 ---
 
-  ### Under Review & In Progress
+### Under Review & In Progress
 - first author LLM4SE-based pub * 1 (Core A*, CCF A)
 - corresponding author pub * 2 (Core A*, CCF A)
 
