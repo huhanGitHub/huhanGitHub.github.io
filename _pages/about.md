@@ -44,7 +44,7 @@ If there is an opening in your team that aligns with my skills, please feel free
 <a href="https://github.com/huhanGitHub/guidedExplore" style="text-decoration: none; color: blue;">Code</a> |
 <a href="#" style="text-decoration: none; color: blue;">Media</a><br>
 <span style="font-weight: bold;">Han Hu</span>, Han Wang, Ruiqi Dong, Xiao Chen, Chunyang Chen<br>
-<strong>TOSEM 2024 (CCF A, CORE A*)</strong>
+TOSEM 2024 (<strong>CCF A, CORE A*</strong>)
 
 ---
 
@@ -53,7 +53,7 @@ If there is an opening in your team that aligns with my skills, please feel free
 <a href="https://github.com/huhanGitHub/iOS-App-database" style="text-decoration: none; color: blue;">Code</a> | 
 <a href="#" style="text-decoration: none; color: blue;">Media</a><br>
 <span style="font-weight: bold;">Han Hu</span>, Yujin Huang, Qiuyuan Chen, Terry Yue Zhuo, Chunyang Chen<br>
-<strong>TOSEM 2023 (CCF A, CORE A*, ICSE 2024-JF)</strong>
+TOSEM 2023 (<strong>CCF A, CORE A*</strong>, ICSE 2024-JF)
 
 ---
 
@@ -62,7 +62,7 @@ If there is an opening in your team that aligns with my skills, please feel free
 <a href="https://github.com/huhanGitHub/papt" style="text-decoration: none; color: blue;">Code</a> | 
 <a href="https://neurips.cc/virtual/2023/poster/73679" style="text-decoration: none; color: blue;">Media</a><br>
 <span style="font-weight: bold;">Han Hu</span>, Haolan Zhan, Yujin Huang, Di Liu<br>
-<strong>NeurIPS 2023 (CCF A, CORE A*, Dataset)</strong>
+NeurIPS 2023 (<strong>CCF A, CORE A*</strong>, Dataset)
 
 ---
 
@@ -71,7 +71,7 @@ If there is an opening in your team that aligns with my skills, please feel free
 <a href="#" style="text-decoration: none; color: blue;">Code</a> | 
 <a href="#" style="text-decoration: none; color: blue;">Media</a><br>
 <span style="font-weight: bold;">Han Hu</span>, Ruiqi Dong, John Grundy, Thai Minh Nguyen, Huaxiao Liu, Chunyang Chen<br>
-<strong>TOSEM 2023 (CCF A, CORE A*, ICSE 2024-JF)</strong>
+TOSEM 2023 (<strong>CCF A, CORE A*</strong>, ICSE 2024-JF)
 
 ---
 
