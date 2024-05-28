@@ -19,43 +19,43 @@ arXiv
 
 (6) **Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey**<br>
 <span style="font-weight: bold;">Han Hu</span>, Han Wang, Ruiqi Dong, Xiao Chen, Chunyang Chen<br>
-<strong>TOSEM 2024 (CCF A, CORE A*)</strong>
+TOSEM 2024 (<strong>CCF A, CORE A*</strong>)
 
 ---
 
 (5) **A First Look at On-device Models on iOS**<br>
 <span style="font-weight: bold;">Han Hu</span>, Yujin Huang, Qiuyuan Chen, Terry Yue Zhuo, Chunyang Chen<br>
-<strong>TOSEM 2023 (CCF A, CORE A*, ICSE 2024-JF)</strong>
+TOSEM 2023 (<strong>CCF A, CORE A*</strong>, ICSE 2024-JF)
 
 ---
 
 (4) **Training-free Lexical Backdoor Attacks on Language Models**<br>
 Yujin Huang, Terry Yue Zhuo, Qiongkai Xu, <span style="font-weight: bold;">Han Hu</span>, Xingliang Yuan, Chunyang Chen<br>
-<strong>WWW 2023 (CCF A, CORE A*)</strong>
+WWW 2023 (<strong>CCF A, CORE A*</strong>)
 
 ---
 
 (3) **Pairwise GUI Dataset Construction Between Android Phones and Tablets**<br>
 <span style="font-weight: bold;">Han Hu</span>, Haolan Zhan, Yujin Huang, Di Liu<br>
-<strong>NeurIPS 2023 (CCF A, CORE A*, Dataset)</strong>
+NeurIPS 2023 (<strong>CCF A, CORE A*</strong>, Dataset)
 
 ---
 
 (2) **Automated Mapping of Adaptive App GUIs from Phone to TV**<br>
 <span style="font-weight: bold;">Han Hu</span>, Ruiqi Dong, John Grundy, Thai Minh Nguyen, Huaxiao Liu, Chunyang Chen<br>
-<strong>TOSEM 2023 (CCF A, CORE A*, ICSE 2024-JF)</strong>
+TOSEM 2023 (<strong>CCF A, CORE A*</strong>, ICSE 2024-JF)
 
 ---
 
 **Robustness of on-device Models: Adversarial Attack to Deep Learning Models on Android Apps**<br>
 Yujin Huang, <span style="font-weight: bold;">Han Hu</span>, Chunyang Chen<br>
-ICSE-SEIP'2021
+ICSE-SEIP'2021 
 
 ---
 
 (1) **Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction**<br>
 Qiuyuan Chen, Xin Xia, <span style="font-weight: bold;">Han Hu</span>, David Lo, Shanping Li<br>
-<strong>TOSEM 2021 (CCF A, CORE A*, ICSE 2021-JF)</strong>
+TOSEM 2021 (<strong>CCF A, CORE A*</strong>, ICSE 2021-JF)
 
 ---
 
