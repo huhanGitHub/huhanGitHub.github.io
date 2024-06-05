@@ -11,7 +11,7 @@ redirect_from:
 
 I am **Han Hu**, Chinese 胡晗, a final-year PhD student at Monash University, Australia, with my main PhD supervisor being Prof. Chunyang Chen@TUM. \
 My research primarily focuses on **mobile application analysis**, including **static program analysis**, **cross-platform (Android, iOS) app analysis**, **dynamic GUI analysis**, and developing **AI** & **LLM**--assisted approaches to enhance existing program analysis approaches for mobile apps.  
-Key projects include the **cross-platform GUI adaptation and exploration** \[TOSEM'2024, NeurIPS'2023, TOSEM'2023\] and the **analysis of vulnerabilities in on-device models** \[TOSEM'2023, WWW'2022, ICSE'2021\]. I am also actively engaged in **benchmark construction of LLMs**, focusing on tasks such as code generation and code comment generation \[[Starcoder2](https://github.com/bigcode-project/starcoder2), TOSEM'2021, ICONIP'2019\].
+Key projects include the **cross-platform GUI adaptation and exploration** \[TOSEM'2024, NeurIPS'2023, TOSEM'2023\] and the **analysis of vulnerabilities in on-device models** \[TOSEM'2023, WWW'2022, ICSE'2021\]. I am also actively engaged in **benchmark construction of LLMs**, focusing on tasks such as code generation, code comment generation and GUI conversion\[ NeurIPS2023, [Starcoder2](https://github.com/bigcode-project/starcoder2), TOSEM'2021, ICONIP'2019\].
 
 Fell free to drop me an email: han.hu@monash.edu, agmaiofhuhan@gmail.com if you would like to talk to me. 
 
