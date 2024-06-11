@@ -52,4 +52,4 @@ Method, System, Electronic Device, and Storage Medium for Predicting Properties 
 
 
 ## Personal life
-My friends call me han cha (晗恰), duck brother (鸭哥) or old hu. I'm a typical Sichuanese who enjoys humor, making jokes, chatting casually, good food, and sometimes touching fish. 
+My friends call me han cha (晗恰), duck brother (鸭哥) or old hu. I'm a typical Sichuanese who enjoys humor, making jokes, casual chats, good food, and sometimes touching fish. 
