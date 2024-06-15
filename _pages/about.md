@@ -13,14 +13,14 @@ I am **Han Hu**, Chinese 胡晗, a final-year PhD student at Monash University, 
 My research interests lie at the intersection of **software engineering** and **deep learning**. I am currently engaged in the following research topics:
 
 - **Mobile Application Analysis**: This includes:
-  - **Cross-platform GUI Adaptation and Exploration** [TOSEM'2024, NeurIPS'2023, TOSEM'2023a]
-  - **Cross-platform App Analysis** (Android, iOS) [TOSEM'2023b]
+  - **Cross-device GUI Adaptation and Exploration** (phone & tablet & TV) [TOSEM'2024, NeurIPS'2023, TOSEM'2023a]
+  - **Cross-platform App Analysis** (Android & iOS) [TOSEM'2023b]
   - **Analysis of Vulnerabilities in On-device Models** [TOSEM'2023b, WWW'2022, ICSE'2021]
 
-- **AI & LLM-Assisted Software Engineering Tasks**: My focus in this area includes:
-  - **Benchmark and Dataset Construction** for deep learning tasks [[Starcoder1 & Starcoder2](https://github.com/bigcode-project/starcoder2), under review 1]
+- **AI & LLM-Assisted Software Development**: My focus in this area includes:
+  - **Benchmark & Dataset Construction** for LLM related tasks [[Starcoder1 & Starcoder2](https://github.com/bigcode-project/starcoder2), under review 1]
   - **Code Generation** [under reivew 2, TOSEM'2021, ICONIP'2019]
-  - **GUI Conversion** [NeurIPS'2023, [Starcoder2](https://github.com/bigcode-project/starcoder2)]
+  - **GUI Conversion** [NeurIPS'2023]
 
 
 Fell free to drop me an email: han.hu@monash.edu, agmaiofhuhan@gmail.com if you would like to talk to me. 
