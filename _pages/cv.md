@@ -44,7 +44,7 @@ Monash University, 03/2022 - Present, Teaching Associate & Assistant Lecturer (p
 - SIGIR'2023 (CCF A, CORE A\*)
 - SANER'2023 (CCF B, CORE A)
 - EACL'2023 (CORE A)
-- EMNLP'2022, 2023 (CCF A, CORE A\*)
+- EMNLP'2022, 2023 (CCF B, CORE A\*)
 
 
 ## Patents
