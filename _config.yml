@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "woodside.png"
+  avatar           : "woodside.jpg"
   name             : "Han Hu"
   pronouns         : # example: "he/his"  
   # bio              : "Short biography for the left-hand sidebar"
