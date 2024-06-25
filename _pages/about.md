@@ -36,6 +36,7 @@ If there is an opening in your team that aligns with my skills, please feel free
 
 ## Latest News
 
+- **Jun, 2024:** I will serve as a paper reviewer in CSCW'2024 (poster track). Thanks for the invitation.
 - **May, 2024:** I will serve as a paper reviewer in NeurIPS'2024. Thanks for the invitation.
 - **May, 2024:** One paper has been accepted in TOSEM.
 
