@@ -41,7 +41,7 @@ If there is an opening in your team that aligns with my skills, please feel free
 - **May, 2024:** One paper has been accepted in TOSEM.
 
 
-##  Selected Top-tier Venue Papers
+##  My First Author COREA* & CCF A Papers
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
@@ -55,14 +55,6 @@ If there is an opening in your team that aligns with my skills, please feel free
 <a href="#" style="text-decoration: none; color: blue;">Media</a><br>
 <span style="font-weight: bold;">Han Hu</span>, Han Wang, Ruiqi Dong, Xiao Chen, Chunyang Chen<br>
 TOSEM 2024 (<strong>CCF A, CORE A*</strong>)
-
----
-
-**StarCoder 2 and The Stack v2: The Next Generation**<br>
-<a href="[https://dl.acm.org/doi/abs/10.1145/3664810](https://arxiv.org/abs/2402.19173)" style="text-decoration: none; color: blue;">arXiv</a> |
-<a href="[https://github.com/huhanGitHub/guidedExplore](https://github.com/bigcode-project/starcoder2)" style="text-decoration: none; color: blue;">StarCoder2</a> <br>
-Anton Lozhkov et al.<br>
-arXiv
 
 ---
 
