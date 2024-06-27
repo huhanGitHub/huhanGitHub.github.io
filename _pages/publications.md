@@ -12,6 +12,8 @@ author_profile: true
 ---
 
 **StarCoder 2 and The Stack v2: The Next Generation**<br>
+<a href="[https://dl.acm.org/doi/abs/10.1145/3664810](https://arxiv.org/abs/2402.19173)" style="text-decoration: none; color: blue;">arXiv</a> |
+<a href="[https://github.com/huhanGitHub/guidedExplore](https://github.com/bigcode-project/starcoder2)" style="text-decoration: none; color: blue;">StarCoder2</a> <br>
 Anton Lozhkov et al.<br>
 arXiv
 
