@@ -41,7 +41,7 @@ If there is an opening in your team that aligns with my skills, please feel free
 - **May, 2024:** One paper has been accepted in TOSEM.
 
 
-##  My First Author COREA* & CCF A Papers
+##  My First Author CORE A* & CCF A Papers
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
