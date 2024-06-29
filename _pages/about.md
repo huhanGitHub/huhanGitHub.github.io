@@ -64,7 +64,7 @@ arXiv
 <a href="https://github.com/huhanGitHub/guidedExplore" style="text-decoration: none; color: blue;">Code</a> |
 <a href="#" style="text-decoration: none; color: blue;">Media</a><br>
 <span style="font-weight: bold;">Han Hu</span>, Han Wang, Ruiqi Dong, Xiao Chen, Chunyang Chen<br>
-TOSEM 2024 (<strong>CCF A, CORE A*</strong>)
+TOSEM 2024 (<strong>CORE A*, CCF A</strong>)
 
 ---
 
@@ -81,7 +81,7 @@ arXiv
 <a href="https://github.com/huhanGitHub/iOS-App-database" style="text-decoration: none; color: blue;">Code</a> | 
 <a href="#" style="text-decoration: none; color: blue;">Media</a><br>
 <span style="font-weight: bold;">Han Hu</span>, Yujin Huang, Qiuyuan Chen, Terry Yue Zhuo, Chunyang Chen<br>
-TOSEM 2023 (<strong>CCF A, CORE A*</strong>, ICSE 2024-JF)
+TOSEM 2023 (<strong>CORE A*, CCF A</strong>, ICSE 2024-JF)
 
 ---
 
@@ -90,7 +90,7 @@ TOSEM 2023 (<strong>CCF A, CORE A*</strong>, ICSE 2024-JF)
 <a href="https://github.com/huhanGitHub/papt" style="text-decoration: none; color: blue;">Code</a> | 
 <a href="https://neurips.cc/virtual/2023/poster/73679" style="text-decoration: none; color: blue;">Media</a><br>
 <span style="font-weight: bold;">Han Hu</span>, Haolan Zhan, Yujin Huang, Di Liu<br>
-NeurIPS 2023 (<strong>CCF A, CORE A*</strong>, Dataset)
+NeurIPS 2023 (<strong>CORE A*, CCF A</strong>, Dataset)
 
 ---
 
@@ -99,7 +99,7 @@ NeurIPS 2023 (<strong>CCF A, CORE A*</strong>, Dataset)
 <a href="#" style="text-decoration: none; color: blue;">Code</a> | 
 <a href="#" style="text-decoration: none; color: blue;">Media</a><br>
 <span style="font-weight: bold;">Han Hu</span>, Ruiqi Dong, John Grundy, Thai Minh Nguyen, Huaxiao Liu, Chunyang Chen<br>
-TOSEM 2023 (<strong>CCF A, CORE A*</strong>, ICSE 2024-JF)
+TOSEM 2023 (<strong>CORE A*, CCF A</strong>, ICSE 2024-JF)
 
 ---
 
