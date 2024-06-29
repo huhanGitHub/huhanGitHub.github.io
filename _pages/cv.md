@@ -34,17 +34,18 @@ Monash University, 03/2022 - Present, Teaching Associate & Assistant Lecturer (p
 ## Academic Service
 
 ### **Program Committee**
-- ACL'2020, 2023 (CCF A, CORE A\*)
-- EMNLP'2023 (CCF A, CORE A\*)
-- AACL-IJCNLP'2020, 2022, 2023 (CCF C, CORE B)
-- ICONIP'2019 (CCF C, CORE A)
+- ACL'2020, 2023 (CORE A\*, CCF A)
+- EMNLP'2023 (CORE A\*, CCF B)
+- AACL-IJCNLP'2020, 2022, 2023 (CORE B, CCF C)
+- ICONIP'2019 (CORE A, CCF C)
 
 ### **Paper Reviewer**
-- NeurIPS'2024 (CCF A, CORE A\*)
-- SIGIR'2023 (CCF A, CORE A\*)
-- SANER'2023 (CCF B, CORE A)
+- ISSRE'2024 (CORE A, CCF B)
+- NeurIPS'2024 (CORE A\*, CCF A)
+- SIGIR'2023 (CORE A\*, CCF A)
+- SANER'2023 (CORE A, CCF B)
 - EACL'2023 (CORE A)
-- EMNLP'2022, 2023 (CCF B, CORE A\*)
+- EMNLP'2022, 2023 (CORE A\*, CCF B)
 
 
 ## Patents
