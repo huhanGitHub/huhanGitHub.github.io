@@ -20,6 +20,12 @@ arXiv
 
 ---
 
+(6) **Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey**<br>
+<span style="font-weight: bold;">Han Hu</span>, Han Wang, Ruiqi Dong, Xiao Chen, Chunyang Chen<br>
+TOSEM 2024 (<strong>CORE A*, CCF A</strong>)
+
+---
+
 **StarCoder 2 and The Stack v2: The Next Generation**<br>
 <a href="https://arxiv.org/abs/2402.19173" style="text-decoration: none; color: blue;">arXiv</a> |
 <a href="https://github.com/bigcode-project/starcoder2" style="text-decoration: none; color: blue;">StarCoder2 github</a> <br>
@@ -28,33 +34,27 @@ arXiv
 
 ---
 
-(6) **Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey**<br>
-<span style="font-weight: bold;">Han Hu</span>, Han Wang, Ruiqi Dong, Xiao Chen, Chunyang Chen<br>
-TOSEM 2024 (<strong>CCF A, CORE A*</strong>)
-
----
-
 (5) **A First Look at On-device Models on iOS**<br>
 <span style="font-weight: bold;">Han Hu</span>, Yujin Huang, Qiuyuan Chen, Terry Yue Zhuo, Chunyang Chen<br>
-TOSEM 2023 (<strong>CCF A, CORE A*</strong>, ICSE 2024-JF)
+TOSEM 2023 (<strong>CORE A*, CCF A</strong>, ICSE 2024-JF)
 
 ---
 
 (4) **Training-free Lexical Backdoor Attacks on Language Models**<br>
 Yujin Huang, Terry Yue Zhuo, Qiongkai Xu, <span style="font-weight: bold;">Han Hu</span>, Xingliang Yuan, Chunyang Chen<br>
-WWW 2023 (<strong>CCF A, CORE A*</strong>)
+WWW 2023 (<strong>CORE A*, CCF A</strong>)
 
 ---
 
 (3) **Pairwise GUI Dataset Construction Between Android Phones and Tablets**<br>
 <span style="font-weight: bold;">Han Hu</span>, Haolan Zhan, Yujin Huang, Di Liu<br>
-NeurIPS 2023 (<strong>CCF A, CORE A*</strong>, Dataset)
+NeurIPS 2023 (<strong>CORE A*, CCF A</strong>, Dataset & Benchmark track)
 
 ---
 
 (2) **Automated Mapping of Adaptive App GUIs from Phone to TV**<br>
 <span style="font-weight: bold;">Han Hu</span>, Ruiqi Dong, John Grundy, Thai Minh Nguyen, Huaxiao Liu, Chunyang Chen<br>
-TOSEM 2023 (<strong>CCF A, CORE A*</strong>, ICSE 2024-JF)
+TOSEM 2023 (<strong>CORE A*, CCF A</strong>, ICSE 2024-JF)
 
 ---
 
@@ -66,7 +66,7 @@ ICSE-SEIP'2021
 
 (1) **Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction**<br>
 Qiuyuan Chen, Xin Xia, <span style="font-weight: bold;">Han Hu</span>, David Lo, Shanping Li<br>
-TOSEM 2021 (<strong>CCF A, CORE A*</strong>, ICSE 2021-JF)
+TOSEM 2021 (<strong>CORE A*, CCF A</strong>, ICSE 2021-JF)
 
 ---
 
@@ -74,16 +74,16 @@ TOSEM 2021 (<strong>CCF A, CORE A*</strong>, ICSE 2021-JF)
 
 **Code Generation from Supervised Code Embeddings**<br>
 <span style="font-weight: bold;">Han Hu</span>, Qiuyuan Chen, Zhaoyi Liu<br>
-ICONIP'2019 (CCF C, CORE A)
+ICONIP'2019 (CORE A, CCF C)
 
 ---
 
 **Code Summarization with Abstract Syntax Tree**<br>
 Qiuyuan Chen, <span style="font-weight: bold;">Han Hu</span>, Zhaoyi Liu<br>
-ICONIP'2019 (CCF C, CORE A)
+ICONIP'2019 (CORE A, CCF C)
 
 ---
 
 **Teacher-Student Learning and Post-Processing for Robust BiLSTM Mask-Based Acoustic Beamforming**<br>
 Zhaoyi Liu, Qiuyuan Chen, <span style="font-weight: bold;">Han Hu</span>, Haoyu Tang, YX Zou<br>
-ICONIP'2019 (CCF C, CORE A)
+ICONIP'2019 (CORE A, CCF C)
