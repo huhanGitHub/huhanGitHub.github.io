@@ -41,11 +41,20 @@ If there is an opening in your team that aligns with my skills, please feel free
 - **May, 2024:** One paper has been accepted in TOSEM.
 
 
-##  My First Author CORE A* & CCF A Papers
+##  Selected Papers
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
+
+---
+
+**BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions**<br>
+<a href="https://arxiv.org/abs/2406.15877" style="text-decoration: none; color: blue;">arXiv</a> |
+<a href="https://github.com/bigcode-project/bigcodebench" style="text-decoration: none; color: blue;">bigcodeBench</a> |
+<a href="https://huggingface.co/blog/leaderboard-bigcodebench" style="text-decoration: none; color: blue;">Huggingface</a><br>
+Terry Yue Zhuo, Minh Chien Vu, Jenny Chim,<span style="font-weight: bold;">Han Hu</span>, et al.<br>
+arXiv
 
 ---
 
@@ -55,6 +64,14 @@ If there is an opening in your team that aligns with my skills, please feel free
 <a href="#" style="text-decoration: none; color: blue;">Media</a><br>
 <span style="font-weight: bold;">Han Hu</span>, Han Wang, Ruiqi Dong, Xiao Chen, Chunyang Chen<br>
 TOSEM 2024 (<strong>CCF A, CORE A*</strong>)
+
+---
+
+**StarCoder 2 and The Stack v2: The Next Generation**<br>
+<a href="https://arxiv.org/abs/2402.19173" style="text-decoration: none; color: blue;">arXiv</a> |
+<a href="https://github.com/bigcode-project/starcoder2" style="text-decoration: none; color: blue;">StarCoder2</a> <br>
+Anton Lozhkov et al.<br>
+arXiv
 
 ---
 
