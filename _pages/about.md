@@ -51,8 +51,8 @@ If there is an opening in your team that aligns with my skills, please feel free
 
 **BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions**<br>
 <a href="https://arxiv.org/abs/2406.15877" style="text-decoration: none; color: blue;">arXiv</a> |
-<a href="https://github.com/bigcode-project/bigcodebench" style="text-decoration: none; color: blue;">bigcodeBench</a> |
-<a href="https://huggingface.co/blog/leaderboard-bigcodebench" style="text-decoration: none; color: blue;">Huggingface</a><br>
+<a href="https://github.com/bigcode-project/bigcodebench" style="text-decoration: none; color: blue;">bigcodeBench github</a> |
+<a href="https://huggingface.co/blog/leaderboard-bigcodebench" style="text-decoration: none; color: blue;">Huggingface article</a><br>
 Terry Yue Zhuo, Minh Chien Vu, Jenny Chim,<span style="font-weight: bold;">Han Hu</span>, et al.<br>
 arXiv
 
@@ -69,7 +69,7 @@ TOSEM 2024 (<strong>CCF A, CORE A*</strong>)
 
 **StarCoder 2 and The Stack v2: The Next Generation**<br>
 <a href="https://arxiv.org/abs/2402.19173" style="text-decoration: none; color: blue;">arXiv</a> |
-<a href="https://github.com/bigcode-project/starcoder2" style="text-decoration: none; color: blue;">StarCoder2</a> <br>
+<a href="https://github.com/bigcode-project/starcoder2" style="text-decoration: none; color: blue;">StarCoder2 github</a> <br>
 Anton Lozhkov et al.<br>
 arXiv
 
