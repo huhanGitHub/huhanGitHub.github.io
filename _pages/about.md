@@ -23,7 +23,7 @@ My research interests lie at the intersection of **software engineering** and **
   - **GUI Conversion** [NeurIPS'2023]
 
 
-Fell free to drop me an email: han.hu@monash.edu, agmaiofhuhan@gmail.com if you would like to talk to me. 
+If you are interested in collaborating on a project or paper with me, please feel free to send me an email at agmaiofhuhan@gmail.com, or han.hu@monash.edu.
 
 
 ## Actively Seeking Full-time Employment
