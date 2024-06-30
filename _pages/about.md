@@ -36,10 +36,16 @@ If there is an opening in your team that aligns with my skills, please feel free
 
 ## Latest News
 
-- **Jun, 2024:** We release bigcodeBench. Feel free to visit its <a href="https://github.com/bigcode-project/bigcodebench" style="text-decoration: none; color: blue;">github</a> homepage for more details.
-- **Jun, 2024:** I will serve as a paper reviewer in CSCW'2024 (poster track). Thanks for the invitation.
-- **May, 2024:** I will serve as a paper reviewer in NeurIPS'2024. Thanks for the invitation.
-- **May, 2024:** One paper has been accepted in TOSEM.
+<div style="height: 150px; overflow-y: scroll;">
+  <h2>Latest News</h2>
+  <ul>
+    <li><b>Jun, 2024:</b> We release bigcodeBench. Feel free to visit its <a href="https://github.com/bigcode-project/bigcodebench" style="text-decoration: none; color: blue;">github</a> homepage for more details.</li>
+    <li><b>Jun, 2024:</b> I will serve as a paper reviewer in CSCW'2024 (poster track). Thanks for the invitation.</li>
+    <li><b>May, 2024:</b> I will serve as a paper reviewer in NeurIPS'2024. Thanks for the invitation.</li>
+    <li><b>May, 2024:</b> One paper has been accepted in TOSEM.</li>
+  </ul>
+</div>
+
 
 
 ##  Selected Papers
