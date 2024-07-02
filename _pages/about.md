@@ -36,7 +36,7 @@ If there is an opening in your team that aligns with my skills, please feel free
 
 ## Latest News
 
-<div style="height: 150px; overflow-y: scroll;">
+<div style="height: 350px; overflow-y: scroll;">
   <ul>
     <li><b>Jun, 2024:</b> We release bigcodeBench. Feel free to visit its <a href="https://github.com/bigcode-project/bigcodebench" style="text-decoration: none; color: blue;">github</a> homepage for more details.</li>
     <li><b>Jun, 2024:</b> I will serve as a paper reviewer in CSCW'2024 (poster track). Thanks for the invitation.</li>
@@ -46,69 +46,4 @@ If there is an opening in your team that aligns with my skills, please feel free
 </div>
 
 
-
-##  Selected Papers
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
----
-
-**BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions**<br>
-<a href="https://arxiv.org/abs/2406.15877" style="text-decoration: none; color: blue;">arXiv</a> |
-<a href="https://github.com/bigcode-project/bigcodebench" style="text-decoration: none; color: blue;">github</a> |
-<a href="https://huggingface.co/blog/leaderboard-bigcodebench" style="text-decoration: none; color: blue;">Huggingface article</a><br>
-Terry Yue Zhuo, Minh Chien Vu, Jenny Chim,<span style="font-weight: bold;">Han Hu</span>, et al.<br>
-Preprint
-
----
-
-**Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey**<br>
-<a href="https://dl.acm.org/doi/abs/10.1145/3664810" style="text-decoration: none; color: blue;">Paper</a> |
-<a href="https://github.com/huhanGitHub/guidedExplore" style="text-decoration: none; color: blue;">Code</a> |
-<a href="#" style="text-decoration: none; color: blue;">Media</a><br>
-<span style="font-weight: bold;">Han Hu</span>, Han Wang, Ruiqi Dong, Xiao Chen, Chunyang Chen<br>
-TOSEM 2024 (<strong>CORE A*, CCF A</strong>)
-
----
-
-**StarCoder 2 and The Stack v2: The Next Generation**<br>
-<a href="https://arxiv.org/abs/2402.19173" style="text-decoration: none; color: blue;">arXiv</a> |
-<a href="https://github.com/bigcode-project/starcoder2" style="text-decoration: none; color: blue;">StarCoder2 github</a> <br>
-Anton Lozhkov et al.<br>
-Preprint
-
----
-
-**A First Look at On-device Models on iOS**<br>
-<a href="https://dl.acm.org/doi/abs/10.1145/3617177" style="text-decoration: none; color: blue;">Paper</a> | 
-<a href="https://github.com/huhanGitHub/iOS-App-database" style="text-decoration: none; color: blue;">Code</a> | 
-<a href="#" style="text-decoration: none; color: blue;">Media</a><br>
-<span style="font-weight: bold;">Han Hu</span>, Yujin Huang, Qiuyuan Chen, Terry Yue Zhuo, Chunyang Chen<br>
-TOSEM 2023 (<strong>CORE A*, CCF A</strong>, ICSE 2024-JF)
-
----
-
-**Pairwise GUI Dataset Construction Between Android Phones and Tablets**<br>
-<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/bc4cff0b37ccab13e98b6128d89ca172-Paper-Datasets_and_Benchmarks.pdf" style="text-decoration: none; color: blue;">Paper</a> | 
-<a href="https://github.com/huhanGitHub/papt" style="text-decoration: none; color: blue;">Code</a> | 
-<a href="https://neurips.cc/virtual/2023/poster/73679" style="text-decoration: none; color: blue;">Media</a><br>
-<span style="font-weight: bold;">Han Hu</span>, Haolan Zhan, Yujin Huang, Di Liu<br>
-NeurIPS 2023 (<strong>CORE A*, CCF A</strong>, Dataset)
-
----
-
-**Automated Mapping of Adaptive App GUIs from Phone to TV**<br>
-<a href="https://dl.acm.org/doi/abs/10.1145/3631968" style="text-decoration: none; color: blue;">Paper</a> | 
-<a href="#" style="text-decoration: none; color: blue;">Code</a> | 
-<a href="#" style="text-decoration: none; color: blue;">Media</a><br>
-<span style="font-weight: bold;">Han Hu</span>, Ruiqi Dong, John Grundy, Thai Minh Nguyen, Huaxiao Liu, Chunyang Chen<br>
-TOSEM 2023 (<strong>CORE A*, CCF A</strong>, ICSE 2024-JF)
-
----
-
-### Under Review & In Progress
-- first author LLM4SE-based pub * 1 (Core A*, CCF A)
-- corresponding author pub * 2 (Core A*, CCF A)
 
