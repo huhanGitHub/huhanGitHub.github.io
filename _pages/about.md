@@ -60,7 +60,7 @@ If there is an opening in your team that aligns with my skills, please feel free
 <a href="https://github.com/bigcode-project/bigcodebench" style="text-decoration: none; color: blue;">github</a> |
 <a href="https://huggingface.co/blog/leaderboard-bigcodebench" style="text-decoration: none; color: blue;">Huggingface article</a><br>
 Terry Yue Zhuo, Minh Chien Vu, Jenny Chim,<span style="font-weight: bold;">Han Hu</span>, et al.<br>
-arXiv
+Preprint
 
 ---
 
@@ -77,7 +77,7 @@ TOSEM 2024 (<strong>CORE A*, CCF A</strong>)
 <a href="https://arxiv.org/abs/2402.19173" style="text-decoration: none; color: blue;">arXiv</a> |
 <a href="https://github.com/bigcode-project/starcoder2" style="text-decoration: none; color: blue;">StarCoder2 github</a> <br>
 Anton Lozhkov et al.<br>
-arXiv
+Preprint
 
 ---
 
