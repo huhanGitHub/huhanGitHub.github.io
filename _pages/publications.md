@@ -9,18 +9,27 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+### Under Review & In Progress
+- first author LLM4SE-based pub * 1 (Core A*, CCF A)
+- corresponding author pub * 2 (Core A*, CCF A)
+
 ---
+
+## Publications
 
 **BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions**<br>
 <a href="https://arxiv.org/abs/2406.15877" style="text-decoration: none; color: blue;">arXiv</a> |
 <a href="https://github.com/bigcode-project/bigcodebench" style="text-decoration: none; color: blue;">github</a> |
 <a href="https://huggingface.co/blog/leaderboard-bigcodebench" style="text-decoration: none; color: blue;">Huggingface article</a><br>
 Terry Yue Zhuo, Minh Chien Vu, Jenny Chim,<span style="font-weight: bold;">Han Hu</span>, et al.<br>
-arXiv
+Preprint
 
 ---
 
 (6) **Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey**<br>
+<a href="https://dl.acm.org/doi/abs/10.1145/3664810" style="text-decoration: none; color: blue;">Paper</a> |
+<a href="https://github.com/huhanGitHub/guidedExplore" style="text-decoration: none; color: blue;">Code</a> |
+<a href="#" style="text-decoration: none; color: blue;">Media</a><br>
 <span style="font-weight: bold;">Han Hu</span>, Han Wang, Ruiqi Dong, Xiao Chen, Chunyang Chen<br>
 TOSEM 2024 (<strong>CORE A*, CCF A</strong>)
 
@@ -30,11 +39,14 @@ TOSEM 2024 (<strong>CORE A*, CCF A</strong>)
 <a href="https://arxiv.org/abs/2402.19173" style="text-decoration: none; color: blue;">arXiv</a> |
 <a href="https://github.com/bigcode-project/starcoder2" style="text-decoration: none; color: blue;">StarCoder2 github</a> <br>
 Anton Lozhkov et al.<br>
-arXiv
+Preprint
 
 ---
 
 (5) **A First Look at On-device Models on iOS**<br>
+<a href="https://dl.acm.org/doi/abs/10.1145/3617177" style="text-decoration: none; color: blue;">Paper</a> | 
+<a href="https://github.com/huhanGitHub/iOS-App-database" style="text-decoration: none; color: blue;">Code</a> | 
+<a href="#" style="text-decoration: none; color: blue;">Media</a><br>
 <span style="font-weight: bold;">Han Hu</span>, Yujin Huang, Qiuyuan Chen, Terry Yue Zhuo, Chunyang Chen<br>
 TOSEM 2023 (<strong>CORE A*, CCF A</strong>, ICSE 2024-JF)
 
@@ -46,13 +58,19 @@ WWW 2023 (<strong>CORE A*, CCF A</strong>)
 
 ---
 
-(3) **Pairwise GUI Dataset Construction Between Android Phones and Tablets**<br>
+(3) Pairwise GUI Dataset Construction Between Android Phones and Tablets**<br>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/bc4cff0b37ccab13e98b6128d89ca172-Paper-Datasets_and_Benchmarks.pdf" style="text-decoration: none; color: blue;">Paper</a> | 
+<a href="https://github.com/huhanGitHub/papt" style="text-decoration: none; color: blue;">Code</a> | 
+<a href="https://neurips.cc/virtual/2023/poster/73679" style="text-decoration: none; color: blue;">Media</a><br>
 <span style="font-weight: bold;">Han Hu</span>, Haolan Zhan, Yujin Huang, Di Liu<br>
-NeurIPS 2023 (<strong>CORE A*, CCF A</strong>, Dataset & Benchmark track)
+NeurIPS 2023 (<strong>CORE A*, CCF A</strong>, Dataset & Benchmark)
 
 ---
 
 (2) **Automated Mapping of Adaptive App GUIs from Phone to TV**<br>
+<a href="https://dl.acm.org/doi/abs/10.1145/3631968" style="text-decoration: none; color: blue;">Paper</a> | 
+<a href="#" style="text-decoration: none; color: blue;">Code</a> | 
+<a href="#" style="text-decoration: none; color: blue;">Media</a><br>
 <span style="font-weight: bold;">Han Hu</span>, Ruiqi Dong, John Grundy, Thai Minh Nguyen, Huaxiao Liu, Chunyang Chen<br>
 TOSEM 2023 (<strong>CORE A*, CCF A</strong>, ICSE 2024-JF)
 
