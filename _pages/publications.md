@@ -15,7 +15,7 @@ author_profile: true
 
 ---
 
-## Publications
+### Publications
 
 **BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions**<br>
 <a href="https://arxiv.org/abs/2406.15877" style="text-decoration: none; color: blue;">arXiv</a> |
