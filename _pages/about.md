@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am **Han Hu**, Chinese 胡晗, a final-year PhD student at Monash University, Australia, with my main PhD supervisor being Prof. Chunyang Chen@TUM. \
+I am **Han Hu**, Chinese 胡晗, a final-year PhD student at Monash University, Australia. \
 My research interests lie at the intersection of **software engineering** and **deep learning**. I am currently engaged in the following research topics:
 
 - **Mobile Application Analysis**: This includes:
