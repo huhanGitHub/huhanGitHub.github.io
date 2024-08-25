@@ -38,6 +38,8 @@ If there is an opening in your team that aligns with my skills, please feel free
 
 <div style="height: 350px; overflow-y: scroll;">
   <ul>
+    <li><b>Aug, 2024:</b> I will serve as a paper reviewer in ICLR'2025. Thanks for the invitation.</li>
+    <li><b>Aug, 2024:</b> I will serve as a Program Committee of ICSE'2025 Artifact Evaluation Track. Thanks for the invitation.</li>
     <li><b>July, 2024:</b> I will serve as a paper reviewer in TOSEM'2024. Thanks for the invitation.</li>
     <li><b>Jun, 2024:</b> We release bigcodeBench. Feel free to visit its <a href="https://github.com/bigcode-project/bigcodebench" style="text-decoration: none; color: blue;">github</a> homepage for more details.</li>
     <li><b>Jun, 2024:</b> I will serve as a paper reviewer in CSCW'2024 (poster track). Thanks for the invitation.</li>
