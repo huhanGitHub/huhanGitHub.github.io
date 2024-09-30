@@ -26,18 +26,21 @@ My research interests lie at the intersection of **software engineering** and **
 If you are interested in collaborating on a project or paper with me, please feel free to send me an email at agmaiofhuhan@gmail.com, or han.hu@monash.edu.
 
 
-~~## Actively Seeking Full-time Employment~~
+## ~~Actively Seeking Full-time Employment~~
 
-I am currently on the job market, actively pursuing opportunities as a **Research Scientist**, **Research Engineer** or **Postdoc**. My expertise centers around Code Generation, App Analysis, establishing LLM benchmarks and datasets, and LLM-driven product development, among other related areas.
+I am currently on the job market, actively pursuing opportunities as a **Research Scientist**, **Research Engineer** or **Postdoc**. 
+If there is an opening in your team that aligns with my skills, please feel free to contact me to arrange an interview. 
+
+My expertise centers around Code Generation, App Analysis, establishing LLM benchmarks and datasets, and LLM-driven product development, among other related areas.
 I have a strong inclination towards industry-driven projects and roles that emphasize practical applications beyond solely contributing top-tier publications. While I am deeply involved in research, I am very confident in my coding and communication skills. Before starting my PhD, I accumulated one year of full-time work experience as a Researcher & Developer in industry.
 
-If there is an opening in your team that aligns with my skills, please feel free to contact me to arrange an interview.
 
 
 ## Latest News
 
 <div style="height: 350px; overflow-y: scroll;">
   <ul>
+    <li><b>Sep, 2024:</b> I will serve as a Program Committee of MOBILESoft'2025 Research Track. Thanks for the invitation.</li>
     <li><b>Aug, 2024:</b> I will serve as a paper reviewer in ICLR'2025. Thanks for the invitation.</li>
     <li><b>Aug, 2024:</b> I will serve as a Program Committee of ICSE'2025 Artifact Evaluation Track. Thanks for the invitation.</li>
     <li><b>July, 2024:</b> I will serve as a paper reviewer in TOSEM'2024. Thanks for the invitation.</li>
