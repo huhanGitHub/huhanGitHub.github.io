@@ -34,7 +34,7 @@ If there is an opening in your team that aligns with my skills, please feel free
 My expertise centers around Code Generation, App Analysis, establishing LLM benchmarks and datasets, and LLM-driven product development, among other related areas.
 I have a strong inclination towards industry-driven projects and roles that emphasize practical applications beyond solely contributing top-tier publications. While I am deeply involved in research, I am very confident in my coding and communication skills.
 
-Please note that my accepted offer is competitive compared to typical CS PhD opportunities. I would appreciate it if this position could offer a similar level of competitiveness before moving forward with an interview. However, I am always open to hearing about interesting opportunities and staying in touch for potential collaborations in both industry and academia.
+Please note that my accepted offer is competitive compared to typical CS PhD offers. I would appreciate it if this position could offer a similar level of competitiveness before moving forward with an interview. However, I am always open to hearing about interesting opportunities and staying in touch for potential collaborations in both industry and academia.
 
 
 ## Latest News
