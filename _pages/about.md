@@ -41,6 +41,7 @@ Please note that my accepted offer is competitive compared to typical CS PhD opp
 
 <div style="height: 350px; overflow-y: scroll;">
   <ul>
+    <li><b>Sep, 2024:</b> I will serve as a paper reviewer in AISTATS'2025. Thanks for the invitation.</li>
     <li><b>Sep, 2024:</b> I will serve as a Program Committee of MOBILESoft'2025 Research Track. Thanks for the invitation.</li>
     <li><b>Aug, 2024:</b> I will serve as a paper reviewer in ICLR'2025. Thanks for the invitation.</li>
     <li><b>Aug, 2024:</b> I will serve as a Program Committee of ICSE'2025 Artifact Evaluation Track. Thanks for the invitation.</li>
