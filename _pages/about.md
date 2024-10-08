@@ -24,7 +24,7 @@ My research interests lie at the intersection of **software engineering** and **
 
 
 **Upon completing my PhD program, I will dedicate my research to LLM4Code,  including code generation, code summaries, and developing code LLMs.**
-If you are interested in collaborating on a project or paper with me, please feel free to send me an email at agmaiofhuhan@gmail.com, or han.hu@monash.edu.
+If you are interested in collaborating on a project or paper with me, please feel free to send me an email at agmaiofhuhan@gmail.com.
 
 
 ## Actively Seeking Full-time Employment
