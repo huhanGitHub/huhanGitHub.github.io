@@ -27,7 +27,7 @@ My research interests lie at the intersection of **software engineering** and **
 If you are interested in collaborating on a project or paper with me, please feel free to send me an email at agmaiofhuhan@gmail.com.
 
 
-## Actively Seeking Full-time Employment
+## ~~Actively Seeking Full-time Employment~~
 
 I am currently on the job market, actively pursuing opportunities as a **Research Scientist**, **Research Engineer** or **Postdoc**. 
 If there is an opening in your team that aligns with my skills, please feel free to contact me to arrange an interview. 
