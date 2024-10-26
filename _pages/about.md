@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Han Hu (胡晗)
+title: Han Hu 胡晗
 author_profile: true
 redirect_from: 
   - /about/
