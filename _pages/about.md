@@ -9,7 +9,10 @@ redirect_from:
 
 ## About Me
 
-I am **Han Hu**, Chinese 胡晗, a final-year PhD student at Monash University, Australia. \
+ I received my PhD degree from Monash University, Australia in December 2024. I am excited to soon begin my role as a Research Scientist at Huawei Hong Kong.
+
+
+I am **Han Hu**, Chinese 胡晗. I received my PhD degree from Monash University, Australia in December 2024. I will begin my role as a Research Scientist at Huawei Hong Kong soon. \
 My research interests lie at the intersection of **software engineering** and **deep learning**. I am currently engaged in the following research topics:
 
 - **Mobile Application Analysis**: This includes:
@@ -32,7 +35,7 @@ If you are interested in collaborating on a project or paper with me, please fee
 ~~I am currently on the job market, actively pursuing opportunities as a **Research Scientist**, **Research Engineer** or **Postdoc**.~~ 
 ~~If there is an opening in your team that aligns with my skills, please feel free to contact me to arrange an interview.~~
 
-I am pleased to announce that I will soon be joining Huawei Hong Kong as a Research Scientist, having directly signed my contract with Huawei through their exclusive hiring program.
+I am pleased to announce that I will soon be joining Huawei Hong Kong as a Research Scientist, having signed my contract directly with Huawei through their exclusive talent program.
 
 My expertise centers around Code Generation, App Analysis, establishing LLM benchmarks and datasets, and LLM-driven product development, among other related areas.
 I have a strong inclination towards industry-driven projects and roles that emphasize practical applications beyond solely contributing top-tier publications. While I am deeply involved in research, I am very confident in my coding and communication skills.
