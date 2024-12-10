@@ -8,10 +8,6 @@ redirect_from:
 ---
 
 ## About Me
-
- I received my PhD degree from Monash University, Australia in December 2024. I am excited to soon begin my role as a Research Scientist at Huawei Hong Kong.
-
-
 I am **Han Hu**, Chinese 胡晗. I received my PhD degree from Monash University, Australia in December 2024. I will begin my role as a Research Scientist at Huawei Hong Kong soon. \
 My research interests lie at the intersection of **software engineering** and **deep learning**. I am currently engaged in the following research topics:
 
