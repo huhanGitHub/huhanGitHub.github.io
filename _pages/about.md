@@ -27,12 +27,12 @@ My research interests lie at the intersection of **software engineering** and **
 If you are interested in collaborating on a project or paper with me, please feel free to send me an email at agmaiofhuhan@gmail.com.
 
 
-## ~~Actively Seeking Full-time Employment~~
+## Actively Seeking Full-time Employment
 
 ~~I am currently on the job market, actively pursuing opportunities as a **Research Scientist**, **Research Engineer** or **Postdoc**.~~ 
 ~~If there is an opening in your team that aligns with my skills, please feel free to contact me to arrange an interview.~~
 
-
+I am pleased to announce that I will soon be joining Huawei Hong Kong as a Research Scientist, having directly signed my contract with Huawei under their talent program.
 
 My expertise centers around Code Generation, App Analysis, establishing LLM benchmarks and datasets, and LLM-driven product development, among other related areas.
 I have a strong inclination towards industry-driven projects and roles that emphasize practical applications beyond solely contributing top-tier publications. While I am deeply involved in research, I am very confident in my coding and communication skills.
@@ -42,7 +42,7 @@ I have a strong inclination towards industry-driven projects and roles that emph
 
 <div style="height: 350px; overflow-y: scroll;">
   <ul>
-  <li><b>December 5, 2024:</b> I was officially awarded the Doctor of Philosophy degree on December 5, 2024! I am now Dr. Hu. From July 2021 to December 2024, what a memorable journey my PhD has been!</li>
+  <li><b>December 5, 2024:</b> I was officially awarded the Doctor of Philosophy degree! I am now Dr. Hu Han. From July 2021 to December 2024, what a memorable journey my PhD has been!</li>
     <li><b>Sep, 2024:</b> I will serve as a paper reviewer in AISTATS'2025. Thanks for the invitation.</li>
     <li><b>Sep, 2024:</b> I will serve as a Program Committee of MOBILESoft'2025 Research Track. Thanks for the invitation.</li>
     <li><b>Aug, 2024:</b> I will serve as a paper reviewer in ICLR'2025. Thanks for the invitation.</li>
