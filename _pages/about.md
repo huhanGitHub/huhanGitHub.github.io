@@ -32,7 +32,7 @@ If you are interested in collaborating on a project or paper with me, please fee
 ~~I am currently on the job market, actively pursuing opportunities as a **Research Scientist**, **Research Engineer** or **Postdoc**.~~ 
 ~~If there is an opening in your team that aligns with my skills, please feel free to contact me to arrange an interview.~~
 
-I am pleased to announce that I will soon be joining Huawei Hong Kong as a Research Scientist, having directly signed my contract with Huawei under their talent program.
+I am pleased to announce that I will soon be joining Huawei Hong Kong as a Research Scientist, having directly signed my contract with Huawei through their exclusive hiring program.
 
 My expertise centers around Code Generation, App Analysis, establishing LLM benchmarks and datasets, and LLM-driven product development, among other related areas.
 I have a strong inclination towards industry-driven projects and roles that emphasize practical applications beyond solely contributing top-tier publications. While I am deeply involved in research, I am very confident in my coding and communication skills.
