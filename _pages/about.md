@@ -41,16 +41,17 @@ I have a strong inclination towards industry-driven projects and roles that emph
 
 <div style="height: 350px; overflow-y: scroll;">
   <ul>
-  <li><b>December 5, 2024:</b> I was officially awarded the Doctor of Philosophy degree! I am now Dr. Hu Han. From July 2021 to December 2024, what a memorable journey my PhD has been!</li>
-    <li><b>Sep, 2024:</b> I will serve as a paper reviewer in AISTATS'2025. Thanks for the invitation.</li>
-    <li><b>Sep, 2024:</b> I will serve as a Program Committee of MOBILESoft'2025 Research Track. Thanks for the invitation.</li>
-    <li><b>Aug, 2024:</b> I will serve as a paper reviewer in ICLR'2025. Thanks for the invitation.</li>
-    <li><b>Aug, 2024:</b> I will serve as a Program Committee of ICSE'2025 Artifact Evaluation Track. Thanks for the invitation.</li>
-    <li><b>July, 2024:</b> I will serve as a paper reviewer in TOSEM'2024. Thanks for the invitation.</li>
-    <li><b>Jun, 2024:</b> We release bigcodeBench. Feel free to visit its <a href="https://github.com/bigcode-project/bigcodebench" style="text-decoration: none; color: blue;">github</a> homepage for more details.</li>
-    <li><b>Jun, 2024:</b> I will serve as a paper reviewer in CSCW'2024 (poster track). Thanks for the invitation.</li>
-    <li><b>May, 2024:</b> I will serve as a paper reviewer in NeurIPS'2024. Thanks for the invitation.</li>
-    <li><b>May, 2024:</b> One paper has been accepted in TOSEM.</li>
+    <li><b>12/2024:</b> I will serve as a paper reviewer in ICML'2025. Thanks for the invitation.</li>
+  <li><b>Dec. 5, 2024:</b> I was awarded the Doctor of Philosophy degree! I am now Dr. Hu Han. From July 2021 to December 2024, what a memorable journey my PhD has been!</li>
+    <li><b>9/2024:</b> I will serve as a paper reviewer in AISTATS'2025. Thanks for the invitation.</li>
+    <li><b>9/2024:</b> I will serve as a Program Committee of MOBILESoft'2025 Research Track. Thanks for the invitation.</li>
+    <li><b>8/2024:</b> I will serve as a paper reviewer in ICLR'2025. Thanks for the invitation.</li>
+    <li><b>8/2024:</b> I will serve as a Program Committee of ICSE'2025 Artifact Evaluation Track. Thanks for the invitation.</li>
+    <li><b>7/2024:</b> I will serve as a paper reviewer in TOSEM'2024. Thanks for the invitation.</li>
+    <li><b>7/2024:</b> We release bigcodeBench. Feel free to visit its <a href="https://github.com/bigcode-project/bigcodebench" style="text-decoration: none; color: blue;">github</a> homepage for more details.</li>
+    <li><b>6/2024:</b> I will serve as a paper reviewer in CSCW'2024 (poster track). Thanks for the invitation.</li>
+    <li><b>5/2024:</b> I will serve as a paper reviewer in NeurIPS'2024. Thanks for the invitation.</li>
+    <li><b>5/2024:</b> One paper has been accepted in TOSEM.</li>
   </ul>
 </div>
 
