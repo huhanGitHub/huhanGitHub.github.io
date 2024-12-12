@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://github.com/huhanGitHub/huhan.github.io/raw/master/files/resume_eng.pdf), updated 05/2024. 
+<!-- [CV](https://github.com/huhanGitHub/huhan.github.io/raw/master/files/resume_eng.pdf), updated 05/2024.-->
 
 
 ## Education Background
