@@ -14,15 +14,23 @@ redirect_from:
 
 ## Education Background
 
-Monash University, 07/2021 - 11/2024, Ph.D. in Computer Science. \
-Main supervised by Prof. Chunyang Chen (Now at Technical University of Munich) and co-supervised by Dr. Xiao Chen (Now at University of Newcastle). 
-<!--I would also like to express my appreciation to Prof. John Groundy (Monash University) and Dr. Qiuyuan Chen (Tencent) for their help during the early stage of my PhD. -->
+**Monash University, July 2021 - November 2024, Ph.D. in Computer Science**
+- **Supervision and Mentorship:**
+  - Principal Supervisor: Prof. Chunyang Chen, now at the Technical University of Munich
+  - Co-Supervisor: Dr. Xiao Chen, now at the University of Newcastle
+  - Additional Thesis Supervisor (June 2024 - December 2024): Dr. Chakkrit Tantithamthavorn, Monash University
+  - Visiting Supervisor (July 2024 - December 2024): Prof. David Lo, Singapore Management University
+- **Acknowledgments:** My heartfelt gratitude goes to Prof. John Groundy (Monash University) and Dr. Qiuyuan Chen (Tencent) for their invaluable guidance and help during the initial stages of my doctoral research.
 
-Tsinghua University, 09/2017 - 06/2020, M.S. in Engineering. \
-Main supervised by Prof. Min Gu and co-supervised by Assoc. Prof. Min Zhou. 
+**Tsinghua University, September 2017 - June 2020, M.S. in Engineering**
+- **Supervision:**
+  - Principal Supervisor: Prof. Min Gu
+  - Co-Supervisor: Assoc. Prof. Min Zhou
+- **Acknowledgments:** Dr. Guang Chen, now at Huawei, my big brother and 大腿 throughout my whole master's program.
 
-UESTC, 09/2013 - 06/2017, B.S. in Digital Animation. \
-We spent 1.5 years learning about aesthetics, colors, and composition, and how to paint with watercolors! It was an cool and memorable time !!!
+**University of Electronic Science and Technology of China (UESTC), September 2013 - June 2017, B.S. in Digital Animation**
+- **Highlights:** The first one and a half years were dedicated to mastering aesthetics, color theory, composition, and watercolor painting, providing a rich and unforgettable educational experience.
+
 
 
 ## Work Experience
