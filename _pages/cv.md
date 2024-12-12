@@ -16,7 +16,7 @@ redirect_from:
 
 **Monash University, July 2021 - November 2024, Ph.D. in Computer Science**
 - **Supervision and Mentorship:**
-  - Principal Supervisor: Prof. Chunyang Chen, now at the Technical University of Munich
+  - First Principal Supervisor: Prof. Chunyang Chen, now at the Technical University of Munich
   - Co-Supervisor: Dr. Xiao Chen, now at the University of Newcastle
   - Additional Thesis Supervisor (June 2024 - December 2024): Dr. Chakkrit Tantithamthavorn, Monash University
   - Visiting Supervisor (July 2024 - December 2024): Prof. David Lo, Singapore Management University
