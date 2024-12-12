@@ -26,7 +26,7 @@ redirect_from:
 - **Supervision:**
   - Principal Supervisor: Prof. Min Gu
   - Co-Supervisor: Assoc. Prof. Min Zhou
-- **Acknowledgments:** Dr. Guang Chen, now at Huawei, my big brother and 大腿 throughout my whole master's program.
+- **Acknowledgments:** Dr. Guang Chen, now at Huawei, my big brother and 大腿 throughout my whole master.
 
 **University of Electronic Science and Technology of China (UESTC), September 2013 - June 2017, B.S. in Digital Animation**
 - **Highlights:** The first one and a half years were dedicated to mastering aesthetics, color theory, composition, and watercolor painting, providing a rich and unforgettable educational experience.
