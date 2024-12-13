@@ -20,7 +20,7 @@ redirect_from:
   - Co-Supervisor: Dr. Xiao Chen, now at the University of Newcastle
   - Additional Thesis Supervisor (June 2024 - December 2024): Dr. Chakkrit Tantithamthavorn, Monash University
   - Visiting Supervisor (July 2024 - December 2024): Prof. David Lo, Singapore Management University
-<!-- - **Acknowledgments:** My heartfelt gratitude goes to Prof. John Groundy (Monash University) and Dr. Qiuyuan Chen (Tencent) for their invaluable guidance and help during the initial stages of my doctoral research. -->
+<!-- - **Acknowledgments:** Deep gratitude to Prof. John Groundy (Monash University) and Dr. Qiuyuan Chen (Tencent) for their guidance and help in the early stages of my PhD. -->
 
 **Tsinghua University, September 2017 - June 2020, M.S. in Engineering**
 - **Supervision:**
