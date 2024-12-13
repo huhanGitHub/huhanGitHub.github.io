@@ -20,13 +20,13 @@ redirect_from:
   - Co-Supervisor: Dr. Xiao Chen, now at the University of Newcastle
   - Additional Thesis Supervisor (June 2024 - December 2024): Dr. Chakkrit Tantithamthavorn, Monash University
   - Visiting Supervisor (July 2024 - December 2024): Prof. David Lo, Singapore Management University
-<!-- - **Acknowledgments:** Deep gratitude to Prof. John Groundy (Monash University) and Dr. Qiuyuan Chen (Tencent) for their guidance and help in the early stages of my PhD. -->
+**Acknowledgments:** Deep gratitude to Prof. John Groundy (Monash University) and Dr. Qiuyuan Chen (Tencent) for their guidance and help in the early stages of my PhD.
 
 **Tsinghua University, September 2017 - June 2020, M.S. in Engineering**
 - **Supervision:**
   - Principal Supervisor: Prof. Min Gu
   - Co-Supervisor: Assoc. Prof. Min Zhou
-<!-- - **Acknowledgments:** Dr. Guang Chen, now at Huawei, my big brother and 大腿 throughout my whole master.-->
+**Acknowledgments:** Dr. Guang Chen, now at Huawei, my big brother and 大腿 throughout my whole master.
 
 **University of Electronic Science and Technology of China (UESTC), September 2013 - June 2017, B.S. in Digital Animation**
 - **Highlights:** The first one and a half years were dedicated to mastering aesthetics, color theory, composition, and watercolor painting. It was a cool and memorable time !!!
