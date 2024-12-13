@@ -25,7 +25,7 @@ redirect_from:
 **Tsinghua University, September 2017 - June 2020, M.S. in Engineering**
 - **Supervision:**
   - Principal Supervisor: Prof. Min Gu
-  - Co-Supervisor: Assoc. Prof. Min Zhou
+  - Co-Supervisor: Assoc. Prof. Min Zhou \
 **Acknowledgments:** Dr. Guang Chen, now at Huawei, my big brother and 大腿 throughout my whole master.
 
 **University of Electronic Science and Technology of China (UESTC), September 2013 - June 2017, B.S. in Digital Animation**
