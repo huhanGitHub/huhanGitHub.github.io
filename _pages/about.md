@@ -21,20 +21,19 @@ My research interests lie at the intersection of **software engineering** and **
   - **Code Generation** [under reivew 2, TOSEM'2021, ICONIP'2019]
   - **GUI Conversion** [NeurIPS'2023]
 
-
-**Upon completing my PhD program, I will dedicate my research to LLM4Code,  including code generation, code summaries, and developing code LLMs.**
+<!--
+**Upon completing my PhD program, I will dedicate my research to LLM4Code,  including code generation, code summaries, and developing code LLMs.** -->
 If you are interested in collaborating on a project or paper with me, please feel free to send me an email at agmaiofhuhan@gmail.com.
 
 
-## Actively Seeking Full-time Employment
+~~## Actively Seeking Full-time Employment~~
 
 ~~I am currently on the job market, actively pursuing opportunities as a **Research Scientist**, **Research Engineer** or **Postdoc**.~~ 
 ~~If there is an opening in your team that aligns with my skills, please feel free to contact me to arrange an interview.~~
-
-I am pleased to announce that I will soon be joining Huawei Hong Kong as a Research Scientist, having signed my contract directly with Huawei through their specialized talent program.
-
 My expertise centers around Code Generation, App Analysis, establishing LLM benchmarks and datasets, and LLM-driven product development, among other related areas.
 I have a strong inclination towards industry-driven projects and roles that emphasize practical applications beyond solely contributing top-tier publications. While I am deeply involved in research, I am very confident in my coding and communication skills.
+
+I am pleased to announce that I will soon be joining Huawei Hong Kong as a Research Scientist, having signed my contract directly with Huawei through their specialized talent program. 
 
 
 ## Latest News
