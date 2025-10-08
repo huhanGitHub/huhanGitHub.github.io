@@ -8,40 +8,31 @@ redirect_from:
 ---
 
 ## About Me
-I am **Han Hu**, Chinese 胡晗. I received my PhD degree from Monash University, Australia in December 2024. I will begin my role as a Research Scientist at Huawei Hong Kong soon. \
-My research interests lie at the intersection of **software engineering** and **deep learning**. I am currently engaged in the following research topics:
+I am **Han Hu** (胡晗), a Research Scientist at **Huawei Hong Kong Research Center**.  
+I received my Ph.D. in Computer Science from **Monash University, Australia**, in December 2024.  
 
-- **Mobile Application Analysis**: This includes:
-  - **Cross-device GUI Adaptation and Exploration** (phone & tablet & TV) [TOSEM'2024, NeurIPS'2023, TOSEM'2023a]
-  - **Cross-platform App Analysis** (Android & iOS) [TOSEM'2023b]
-  - **Analysis of Vulnerabilities in On-device Models** [TOSEM'2023b, WWW'2022, ICSE'2021]
+My research lies at the intersection of **software engineering** and **deep learning**, with a focus on **AI for Software Engineering (AI4SE)**.  
+I am particularly interested in integrating LLMs and dynamic analysis techniques to advance software automation, reliability, and performance.
 
-- **AI & LLM-Assisted Software Development**: My focus in this area includes:
-  - **Benchmark & Dataset Construction** for LLM related tasks [[Starcoder1 & Starcoder2](https://github.com/bigcode-project/starcoder2), under review 1]
-  - **Code Generation** [under reivew 2, TOSEM'2021, ICONIP'2019]
-  - **GUI Conversion** [NeurIPS'2023]
+### Research Interests
+My research focuses on **Automated App Analysis (Dynamic)**, including **GUI Agent** and **automated app performance analysis**,  
+and **LLM-driven Code Analysis (Static)**, covering **LLM4Code**, **code understanding**, and **benchmark construction** (e.g., [StarCoder](https://github.com/bigcode-project/starcoder2), [BigCodeBench](https://github.com/bigcode-project/bigcodebench)).
 
-<!--
-**Upon completing my PhD program, I will dedicate my research to LLM4Code,  including code generation, code summaries, and developing code LLMs.** -->
-If you are interested in collaborating on a project or paper with me, please feel free to send me an email at agmaiofhuhan@gmail.com.
 
+### Collaboration & Opportunities
+Our team is currently open to **research interns** (long-term recruitment) and **full-time researchers** focusing on **performance analysis** and **automated application analysis (AI4SE)**.  
+If you are interested in collaborating on research projects or joining our team, please feel free to contact me at **hu.han@huawei.com**.
 
 ~~## Actively Seeking Full-time Employment~~
 
 ~~I am currently on the job market, actively pursuing opportunities as a **Research Scientist**, **Research Engineer** or **Postdoc**.~~ 
 ~~If there is an opening in your team that aligns with my skills, please feel free to contact me to arrange an interview.~~
 
-My expertise centers around Code Generation, App Analysis, establishing LLM benchmarks and datasets, and LLM-driven product development, among other related areas.
-I have a strong inclination towards industry-driven projects and roles that emphasize practical applications beyond solely contributing top-tier publications. While I am deeply involved in research, I am very confident in my coding and communication skills.
-
-<!--
-I am pleased to announce that I will soon be joining Huawei Hong Kong as a Research Scientist, having signed my contract directly with Huawei through their specialized talent program.  -->
-
-
 ## Latest News
 
 <div style="height: 350px; overflow-y: scroll;">
   <ul>
+    <li><b>10/2025:</b> I’m still alive (and debugging), and hopefully I’ll remember to update my homepage someday.</li>
     <li><b>12/2024:</b> I will serve as a paper reviewer in ICML'2025. Thanks for the invitation.</li>
   <li><b>Dec. 5, 2024:</b> I was awarded the Doctor of Philosophy degree! I am now Dr. Hu Han. From July 2021 to December 2024, what a memorable journey my PhD has been!</li>
     <li><b>9/2024:</b> I will serve as a paper reviewer in AISTATS'2025. Thanks for the invitation.</li>
