@@ -32,7 +32,7 @@ If you are interested in collaborating on research projects or joining our team,
 
 <div style="height: 350px; overflow-y: scroll;">
   <ul>
-    <li><b>10/2025:</b> I’m still alive (and debugging), and hopefully I’ll remember to update my homepage someday.</li>
+    <li><b>10/2025:</b> Still alive (and debugging). Hopefully I’ll remember to update my homepage someday, but at least I remember to discover more and more great restaurants in Shenzhen.</li>
     <li><b>12/2024:</b> I will serve as a paper reviewer in ICML'2025. Thanks for the invitation.</li>
   <li><b>Dec. 5, 2024:</b> I was awarded the Doctor of Philosophy degree! I am now Dr. Hu Han. From July 2021 to December 2024, what a memorable journey my PhD has been!</li>
     <li><b>9/2024:</b> I will serve as a paper reviewer in AISTATS'2025. Thanks for the invitation.</li>
