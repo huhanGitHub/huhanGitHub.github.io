@@ -14,25 +14,33 @@ redirect_from:
 
 ## Education Background
 
-**Monash University**, Australia — *Ph.D. in Computer Science (2021.07 – 2024.11)*  
+**Monash University**, Australia  
+*Ph.D. in Computer Science (2021.07 – 2024.11)*  
 Supervised by Prof. Chunyang Chen (now TUM), Dr. Xiao Chen, Dr. Chakkrit Tantithamthavorn, and Prof. David Lo (SMU).
 
-**Tsinghua University**, China — *M.S. in Engineering (2017.09 – 2020.06)*  
+**Tsinghua University**, China  
+*M.S. in Engineering (2017.09 – 2020.06)*  
 Supervised by Prof. Min Gu.
 
-**University of Electronic Science and Technology of China (UESTC)**, China — *B.S. in Digital Animation (2013.09 – 2017.06)*
+**University of Electronic Science and Technology of China (UESTC)**, China  
+*B.S. in Digital Animation (2013.09 – 2017.06)*
+
 
 
 ## Work Experience
 
-**Huawei Hong Kong Research Center**, Hong Kong — *Research Scientist (2025.02 – Present)*  
+**Huawei Hong Kong Research Center**, Hong Kong  
+*Research Scientist (2025.02 – Present)*  
 Research on performance analysis, GUI Agent, and automated app analysis (AI4SE).
 
-**Ji Hua Laboratory**, Foshan — *Researcher & Developer (2020.06 – 2021.07)*  
+**Ji Hua Laboratory**, Foshan  
+*Researcher & Developer (2020.06 – 2021.07)*  
 Researcher and developer in AI4SE.
 
-**Monash University**, Australia — *Teaching Associate & Assistant Lecturer (Part-time, 2022.03 – 2024.12)*  
+**Monash University**, Australia  
+*Teaching Associate & Assistant Lecturer (Part-time, 2022.03 – 2024.12)*  
 Taught software engineering courses, practiced my oral English for free, with tutor salary included.
+
 
 ## Academic Service
 
