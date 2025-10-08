@@ -20,8 +20,10 @@ and **LLM-driven Code Analysis (Static)**, covering **LLM4Code**, **code underst
 
 
 ### Collaboration & Opportunities
-Our team is currently open to **research interns** (long-term recruitment) and **full-time researchers** focusing on **performance analysis** and **automated application analysis (AI4SE)**.  
-If you are interested in collaborating on research projects or joining our team, please feel free to contact me at **hu.han@huawei.com**.
+
+Our team, based in **Hong Kong**, is currently open to **research interns** (long-term recruitment, applications accepted year-round) and **full-time researchers** focusing on **performance analysis** and **automated application analysis (AI4SE)**.  
+If you are interested in collaborating on research projects or joining our team, please feel free to contact me at **hu.han@huawei.com** or **agmaiofhuhan@gmail.com**.
+
 
 ~~## Actively Seeking Full-time Employment~~
 
