@@ -14,30 +14,25 @@ redirect_from:
 
 ## Education Background
 
-**Monash University, July 2021 - November 2024, Ph.D. in Computer Science**
-- **Supervision:**
-  - First Principal Supervisor: Prof. Chunyang Chen, now at the Technical University of Munich
-  - Co-Supervisor: Dr. Xiao Chen, now at the University of Newcastle
-  - Additional Thesis Supervisor (June 2024 - December 2024): Dr. Chakkrit Tantithamthavorn, Monash University
-  - Visiting Supervisor at Singapore Management University (July 2024 - December 2024): Prof. David Lo.
-<!-- **Acknowledgments:** Deep gratitude to Prof. John Groundy (Monash University) and Dr. Qiuyuan Chen (Tencent) for their guidance and help in the early stages of my PhD. -->
+**Monash University**, Australia — *Ph.D. in Computer Science (2021.07 – 2024.11)*  
+Supervised by Prof. Chunyang Chen (now TUM), Dr. Xiao Chen, Dr. Chakkrit Tantithamthavorn, and Prof. David Lo (SMU).
 
-**Tsinghua University, September 2017 - June 2020, M.S. in Engineering**
-- **Supervision:**
-  - Principal Supervisor: Prof. Min Gu
-  - Co-Supervisor: Assoc. Prof. Min Zhou \
-<!-- **Acknowledgments:** Dr. Guang Chen, now at Huawei, my big brother and 大腿 throughout my whole master. -->
+**Tsinghua University**, China — *M.S. in Engineering (2017.09 – 2020.06)*  
+Supervised by Prof. Min Gu.
 
-**University of Electronic Science and Technology of China (UESTC), September 2013 - June 2017, B.S. in Digital Animation**
-- **Highlights:** The first one and a half years were dedicated to mastering aesthetics, color theory, composition, and watercolor painting. It was a cool and memorable time !!!
-
+**University of Electronic Science and Technology of China (UESTC)**, China — *B.S. in Digital Animation (2013.09 – 2017.06)*
 
 
 ## Work Experience
 
-Ji Hua Laboratory, 06/2020 - 07/2021, Researcher & Developer
+**Huawei Hong Kong Research Center**, Hong Kong — *Research Scientist (2025.02 – Present)*  
+Research on performance analysis, GUI Agent, and automated app analysis (AI4SE).
 
-Monash University, 03/2022 - Present, Teaching Associate & Assistant Lecturer (part-time)
+**Ji Hua Laboratory**, Foshan — *Researcher & Developer (2020.06 – 2021.07)*  
+Researcher and developer in AI4SE.
+
+**Monash University**, Australia — *Teaching Associate & Assistant Lecturer (Part-time, 2022.03 – 2024.12)*  
+Taught software engineering courses, practiced my oral English for free, with tutor salary included.
 
 ## Academic Service
 
