@@ -11,12 +11,12 @@ redirect_from:
 I am **Han Hu** (胡晗), a Research Scientist at **Huawei Hong Kong Research Center**.  
 I received my Ph.D. in Computer Science from **Monash University, Australia**, in December 2024.  
 
-My research lies at the intersection of **software engineering** and **deep learning**, with a focus on **AI for Software Engineering (AI4SE)**.  
-I am particularly interested in integrating LLMs and dynamic analysis techniques to advance software automation, reliability, and performance.
-
-### Research Interests
+### Research Interests  
+I am particularly interested in integrating **LLMs** and **app dynamic analysis** techniques to advance software automation, reliability, and performance.  
 My research focuses on **Automated App Analysis (Dynamic)**, including **GUI Agent** and **automated app performance analysis**,  
-and **LLM-driven Code Analysis (Static)**, covering **LLM4Code**, **code understanding**, and **benchmark construction** (e.g., [StarCoder](https://github.com/bigcode-project/starcoder2), [BigCodeBench](https://github.com/bigcode-project/bigcodebench)).
+as well as **LLM-driven Code Analysis (Static)**, covering **AI coding** and **benchmark/dataset construction**.  
+I am a **core contributor** to the following projects: [BigCodeBench](https://github.com/bigcode-project/bigcodebench) and [StarCoder](https://github.com/bigcode-project/starcoder2).
+
 
 
 ### Collaboration & Opportunities
