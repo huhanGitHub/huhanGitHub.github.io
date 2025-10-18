@@ -20,6 +20,7 @@ as well as **LLM-driven Code Analysis (Static)**, covering **AI coding** and **L
 
 ### Collaboration & Opportunities
 Our team, based in **Hong Kong**, is currently open to **research interns** (long-term recruitment, applications accepted year-round) and **full-time researchers** focusing on **app/model performance**, **automated app analysis** and **AI4SE**.  
+We can support visa applications and offer a highly competitive compensation package for qualified candidates.
 If you are interested in collaborating on research projects or joining our team, please feel free to contact me at **hu.han@huawei.com** or **agmaiofhuhan@gmail.com**.
 
 
