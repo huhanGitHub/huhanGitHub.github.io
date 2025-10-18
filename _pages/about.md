@@ -14,8 +14,7 @@ I received my Ph.D. in Computer Science from **Monash University, Australia**, i
 ### Research Interests  
 I am particularly interested in integrating **LLMs** and **app dynamic analysis** techniques to advance software automation, reliability, and performance.  
 I focus on **dynamic app analysis**, covering **GUI Agent** and **app/LLM runtime performance**,
-as well as **LLM-driven Code Analysis (Static)**, covering **AI coding** and **LLM benchmark/dataset construction**.  
-(Selected projects as a core contributor: [BigCodeBench](https://github.com/bigcode-project/bigcodebench) and [StarCoder](https://github.com/bigcode-project/starcoder2).)
+as well as **LLM-driven Code Analysis (Static)**, covering **AI coding** and **LLM benchmark/dataset construction**. (Selected projects as a core contributor: [BigCodeBench](https://github.com/bigcode-project/bigcodebench) and [StarCoder](https://github.com/bigcode-project/starcoder2).)
 
 
 
