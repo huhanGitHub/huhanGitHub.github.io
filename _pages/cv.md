@@ -16,7 +16,7 @@ redirect_from:
 
 **Monash University**, Australia  
 *Ph.D. in Computer Science (2021.07 – 2024.11)*  
-Supervised by Prof. Chunyang Chen (now TUM), Dr. Xiao Chen, Dr. Chakkrit Tantithamthavorn, and Prof. David Lo (SMU).
+Supervised by Prof. Chunyang Chen (now TUM), Dr. Xiao Chen, Dr. Chakkrit Tantithamthavorn, and Prof. David Lo (during my visit to SMU).
 
 **Tsinghua University**, China  
 *M.S. in Engineering (2017.09 – 2020.06)*  
