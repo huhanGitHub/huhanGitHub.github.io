@@ -15,13 +15,13 @@ I received my Ph.D. in Computer Science from **Monash University, Australia**, i
 I am particularly interested in integrating **LLMs** and **app dynamic analysis** techniques to advance software automation, reliability, and performance.  
 My research focuses on **Automated App Analysis (Dynamic)**, including **GUI Agent** and **automated app performance analysis**,  
 as well as **LLM-driven Code Analysis (Static)**, covering **AI coding** and **benchmark/dataset construction**.  
-I am a **core contributor** to the following projects: [BigCodeBench](https://github.com/bigcode-project/bigcodebench) and [StarCoder](https://github.com/bigcode-project/starcoder2).
+(e.g. I am a **core contributor** to the following projects: [BigCodeBench](https://github.com/bigcode-project/bigcodebench) and [StarCoder](https://github.com/bigcode-project/starcoder2).)
 
 
 
 ### Collaboration & Opportunities
 
-Our team, based in **Hong Kong**, is currently open to **research interns** (long-term recruitment, applications accepted year-round) and **full-time researchers** focusing on **performance analysis** and **automated application analysis (AI4SE)**.  
+Our team, based in **Hong Kong**, is currently open to **research interns** (long-term recruitment, applications accepted year-round) and **full-time researchers** focusing on **app/on-device model performance** and **automated app analysis (AI4SE)**.  
 If you are interested in collaborating on research projects or joining our team, please feel free to contact me at **hu.han@huawei.com** or **agmaiofhuhan@gmail.com**.
 
 
