@@ -35,10 +35,9 @@ If you are interested in collaborating on research projects or joining our team,
   <ul>
     <li><b>2026:</b> Still alive (and debugging). Hopefully I’ll remember to update my homepage someday, but at least I remember to discover more and more great restaurants in Shenzhen.</li>
     <li><b>2025:</b> Our paper <i>Phantom Rendering Detection: Identifying and Analyzing Unnecessary UI Computations</i> was accepted at FSE 2026.</li>
-<li><b>2025:</b> Our paper <i>InterIDEAS: Philosophical Intertextuality via LLMs</i> was accepted at EMNLP 2025 and received the <b>Best Special Theme Paper Award</b>. 🎉</li>
+<li><b>2025:</b> Our paper <i>InterIDEAS: Philosophical Intertextuality via LLMs</i> was accepted at EMNLP 2025 and received the Best Special Theme Paper Award. </li>
 <li><b>2025:</b> Our paper <i>Activity Transition Graph Generation: How Far Are We?</i> was accepted at ACM TOSEM.</li>
      <li><b>12/2024:</b> I will serve as a paper reviewer in ICML'2025. Thanks for the invitation.</li>
-    <li><b>12/2024:</b> I will serve as a paper reviewer in ICML'2025. Thanks for the invitation.</li>
   <li><b>Dec. 5, 2024:</b> I was awarded the Doctor of Philosophy degree! I am now Dr. Hu Han. From July 2021 to December 2024, what a memorable journey my PhD has been!</li>
     <li><b>9/2024:</b> I will serve as a paper reviewer in AISTATS'2025. Thanks for the invitation.</li>
     <li><b>9/2024:</b> I will serve as a Program Committee of MOBILESoft'2025 Research Track. Thanks for the invitation.</li>
