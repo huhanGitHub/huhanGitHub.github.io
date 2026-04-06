@@ -12,7 +12,7 @@ redirect_from:
 
 I am **Han Hu** (胡晗), a **Research Scientist** at **Huawei Hong Kong Research Center**.  
 I hold a Ph.D. in Computer Science from **Monash University** (2021–2024) and an M.S. from **Tsinghua University** (2020).  
-My research centers on **Code LLM** — from model training and post-training (SFT/RLHF) to evaluation — and extends into applying code AI to solve engineering problems at production scale, including LLM-driven performance diagnosis, binary code analysis, and automated software testing. My PhD publications have accumulated **1,000+ citations** (Google Scholar).
+My research spans two main areas: **Code LLM** (training, post-training & evaluation, including binary code understanding) and **Performance Intelligence** (LLM-driven automated diagnosis & GPU/CPU optimization for production systems). I also work on automated app analysis and GUI agents. My PhD publications have accumulated **1,000+ citations** (Google Scholar).
 
 **Code LLM** · **LLM Post-training** · **RLHF for Code** · **Binary Code Analysis** · **AI Coding** · **Performance Intelligence** · **LLM-driven Diagnosis** · **MLSys** · **AI4SE**
 
@@ -22,8 +22,8 @@ My research centers on **Code LLM** — from model training and post-training (S
 Training and evaluating large language models for code understanding and generation; code post-training (SFT/RLHF); AI coding tools; LLM benchmark construction. Extending code LLMs to low-level code understanding, including binary/machine code recognition and decompilation analysis.  
 *(Core contributor: [BigCodeBench](https://github.com/bigcode-project/bigcodebench) · [StarCoder 2](https://github.com/bigcode-project/starcoder2) — widely adopted in the Code LLM community · 🏆 Best Special Theme Paper Award @ EMNLP 2025)*
 
-**② LLM for Software & System Engineering in Production**  
-Deploying code AI to solve real engineering problems at scale: **LLM-based automated performance root cause attribution** on decompiled binaries (2025 OKR); GPU/CPU redundant computation detection (avg. **20% GPU performance improvement** · *FSE 2026 · First-author Patent, 2025*); dynamic profiling, trace analysis, and system-level diagnosis for mobile production systems. *(MLSys · AIOps)*
+**② Performance Intelligence (LLM × Systems)**  
+GPU/CPU optimization and LLM-driven automated diagnosis for production systems: redundant computation detection (avg. **20% GPU performance improvement** · *FSE 2026 · First-author Patent, 2025*), dynamic profiling, trace analysis, and LLM-based root cause attribution on decompiled binaries. *(AIOps · MLSys)*
 
 **③ Automated App Analysis & GUI Agent**  
 Autonomous GUI agent for mobile app testing; dynamic app exploration; on-device ML model analysis (Android/iOS).
