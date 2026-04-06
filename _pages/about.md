@@ -12,14 +12,14 @@ redirect_from:
 
 I am **Han Hu** (胡晗), a **Research Scientist** at **Huawei Hong Kong Research Center**.  
 I hold a Ph.D. in Computer Science from **Monash University** (2021–2024) and an M.S. from **Tsinghua University** (2020).  
-My research spans two main areas: **Code LLM** (training, post-training & evaluation, including binary code understanding) and **Performance Intelligence** (LLM-driven automated diagnosis & GPU/CPU optimization for production systems). I also work on automated app analysis and GUI agents. My PhD publications have accumulated **1,000+ citations** (Google Scholar).
+My research spans two main areas: **Code LLM** (post-training & domain-specific model training for code, evaluation, and downstream applications including binary code understanding) and **Performance Intelligence** (LLM-driven automated diagnosis & GPU/CPU optimization for production systems). I also work on automated app analysis and GUI agents. My PhD publications have accumulated **1,000+ citations** (Google Scholar).
 
 **Code LLM** · **LLM Post-training** · **RLHF for Code** · **Binary Code Analysis** · **AI Coding** · **Performance Intelligence** · **LLM-driven Diagnosis** · **MLSys** · **AI4SE**
 
 ### Research Interests
 
-**① Code LLM: Training, Post-training & Evaluation** *(Core)*  
-Training and evaluating large language models for code understanding and generation; code post-training (SFT/RLHF); AI coding tools; LLM benchmark construction. Extending code LLMs to low-level code understanding, including binary/machine code recognition and decompilation analysis.  
+**① Code LLM: Post-training, Domain Modeling & Evaluation** *(Core)*  
+Post-training large language models for code (SFT/RLHF) and training domain-specific small models; LLM benchmark construction and evaluation; AI coding tools. Downstream applications: code tool use, binary/compilation-level code understanding, and LLM-driven automated bug attribution.  
 *(Core contributor: [BigCodeBench](https://github.com/bigcode-project/bigcodebench) · [StarCoder 2](https://github.com/bigcode-project/starcoder2) — widely adopted in the Code LLM community · 🏆 Best Special Theme Paper Award @ EMNLP 2025)*
 
 **② Performance Intelligence (LLM × Systems)**  
