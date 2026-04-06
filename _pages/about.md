@@ -7,7 +7,7 @@ redirect_from:
 
 ## About Me
 
-I am **Han Hu** (胡晗), a **Principal Research Scientist** at **Huawei Hong Kong Research Center**.  
+I am **Han Hu** (胡晗), a **Research Scientist** at **Huawei Hong Kong Research Center**.  
 I hold a Ph.D. in Computer Science from **Monash University** (2021–2024) and an M.S. from **Tsinghua University** (2020).  
 My research focuses on **Code LLM** (training, post-training & evaluation), **Performance Intelligence** (LLM-driven system diagnosis & GPU optimization), and **Automated App Analysis** (GUI Agent & on-device ML). My PhD publications have accumulated **1,000+ citations** (Google Scholar).
 
