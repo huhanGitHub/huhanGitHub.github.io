@@ -17,7 +17,7 @@ My research focuses on **Code LLM** (training, post-training & evaluation), **Pe
 
 **① Code Intelligence & LLM Post-training**  
 Training and evaluating large language models for code; code post-training (SFT/RLHF); AI coding tools; LLM benchmark construction and evaluation.  
-*(Core contributor: [BigCodeBench](https://github.com/bigcode-project/bigcodebench) · [StarCoder 2](https://github.com/bigcode-project/starcoder2) — widely adopted in the Code LLM community · Best Special Theme Paper Award @ EMNLP 2025)*
+*(Core contributor: [BigCodeBench](https://github.com/bigcode-project/bigcodebench) · [StarCoder 2](https://github.com/bigcode-project/starcoder2) — widely adopted in the Code LLM community · 🏆 Best Special Theme Paper Award @ EMNLP 2025)*
 
 **② Performance Intelligence (LLM × Systems)**  
 GPU/CPU optimization and LLM-driven automated diagnosis for production systems: redundant computation detection (avg. **20% GPU performance improvement** · *FSE 2026 · First-author Patent, 2025*), dynamic profiling, trace analysis, and LLM-based root cause attribution on decompiled binaries. *(AIOps · MLSys)*
