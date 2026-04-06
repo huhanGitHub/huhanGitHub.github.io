@@ -1,9 +1,12 @@
-## permalink: /
-title: Han Hu 胡晗
+---
+layout: archive
+permalink: /
+title: "Han Hu 胡晗"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
 ## About Me
 
