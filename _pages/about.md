@@ -22,7 +22,7 @@ My research spans two main areas: **Code LLM** (post-training & evaluation, doma
 Post-training large language models for code (SFT/RLHF) and training domain-specific small models; LLM benchmark construction and evaluation; AI coding tools. Downstream applications: code tool use, binary/compilation-level code understanding, and LLM-driven automated bug attribution.  
 *(Core contributor: [BigCodeBench](https://github.com/bigcode-project/bigcodebench) · [StarCoder 2](https://github.com/bigcode-project/starcoder2) — widely adopted in the Code LLM community · 🏆 Best Special Theme Paper Award @ EMNLP 2025)*
 
-**② LLM Systems & AI Infrastructure: Inference Optimization & Performance Engineering**  
+**② LLM Systems & AI Infrastructure: Inference Optimization & Performance Engineering** *(Core)*  
 GPU/CPU performance optimization for production systems (redundant computation detection, avg. **20% GPU performance improvement** · *FSE 2026 · First-author Patent, 2025*); dynamic profiling, trace analysis, and LLM-based automated root cause analysis on decompiled binaries. Particularly focused on performance challenges in code-related LLM workloads. *(MLSys · LLM Inference)*
 
 **③ Automated App Analysis & GUI Agent**  
