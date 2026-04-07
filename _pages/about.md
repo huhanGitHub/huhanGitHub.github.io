@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I am **Han Hu** (胡晗), a **Research Scientist** at **Huawei Hong Kong Research Center**.  
+I am **Han Hu** (胡晗), a **Research Scientist** at **Huawei Hong Kong Research Center** *(Feb 2025 – Present)*.  
 I hold a Ph.D. in Computer Science from **Monash University** (2021–2024) and an M.S. from **Tsinghua University** (2020).  
 My research spans two main areas: **Code LLM** (post-training & evaluation, domain-specific model training, binary code understanding) and **LLM Systems** (inference optimization & GPU/CPU performance engineering, with a particular interest in code-related workloads). I also work on GUI agents and automated app analysis. My PhD publications have accumulated **1,000+ citations** (Google Scholar).
 
@@ -19,14 +19,17 @@ My research spans two main areas: **Code LLM** (post-training & evaluation, doma
 ### Research Interests
 
 **① Code LLM: Post-training, Domain Modeling & Evaluation** *(Core)*  
-Post-training large language models for code (SFT/RLHF) and training domain-specific small models; LLM benchmark construction and evaluation; AI coding tools. Downstream applications: code tool use, binary/compilation-level code understanding, and LLM-driven automated bug attribution.  
-*(Core contributor: [BigCodeBench](https://github.com/bigcode-project/bigcodebench) · [StarCoder 2](https://github.com/bigcode-project/starcoder2) — widely adopted in the Code LLM community · 🏆 Best Special Theme Paper Award @ EMNLP 2025)*
+My current work focuses on post-training large language models for code (SFT/RLHF) and training domain-specific small models; LLM benchmark construction and evaluation; AI coding tools. Downstream applications include LLM-driven program analysis, binary code understanding, and automated bug attribution.  
+*(Core contributor: [BigCodeBench](https://github.com/bigcode-project/bigcodebench) (ICLR 2025) · [StarCoder 2](https://github.com/bigcode-project/starcoder2) — widely adopted in the Code LLM community)*  
+*🏆 Best Special Theme Paper Award @ EMNLP 2025*
 
 **② LLM Systems & AI Infrastructure: Inference Optimization & Performance Engineering** *(Core)*  
-GPU/CPU performance optimization for production systems (redundant computation detection, avg. **20% GPU performance improvement** · *FSE 2026 · First-author Patent, 2025*); dynamic profiling, trace analysis, and LLM-based automated root cause analysis on decompiled binaries. Particularly focused on performance challenges in code-related LLM workloads. *(MLSys · LLM Inference)*
+My current work focuses on GPU/CPU performance optimization for production systems: redundant rendering detection (avg. **20% GPU performance improvement**); dynamic profiling, trace analysis, and LLM-based automated root cause analysis on decompiled binaries. Particularly focused on performance challenges in code-related LLM workloads.  
+*(FSE 2026 · TOSEM 2023 · First-author Patent, 2025 · MLSys · LLM Inference)*
 
 **③ Automated App Analysis & GUI Agent**  
-Autonomous GUI agent for mobile app testing; dynamic app exploration; on-device ML model analysis (Android/iOS).
+Autonomous GUI agent for mobile app testing; dynamic app exploration; on-device ML model analysis (Android/iOS).  
+*(NeurIPS 2024 · TOSEM 2024 · TOSEM 2023)*
 
 ### Collaboration & Opportunities
 
@@ -48,13 +51,9 @@ If you are interested in collaborating on research projects or joining our team,
 - **2025/06:** Our paper *Activity Transition Graph Generation: How Far Are We?* was accepted at ACM TOSEM.
 - **2024/12:** I will serve as a paper reviewer in ICML'2025. Thanks for the invitation.
 - **2024/12:** I was awarded the Doctor of Philosophy degree! I am now Dr. Han Hu. From July 2021 to December 2024, what a memorable journey my PhD has been!
-- **2024/09:** I will serve as a paper reviewer in AISTATS'2025. Thanks for the invitation.
-- **2024/09:** I will serve as a Program Committee of MOBILESoft'2025 Research Track. Thanks for the invitation.
+- **2024/09:** Our paper *Pairwise GUI Dataset Construction between Android Phones and Tablets* was accepted at **NeurIPS 2024**.
 - **2024/08:** I will serve as a paper reviewer in ICLR'2025. Thanks for the invitation.
-- **2024/08:** I will serve as a Program Committee of ICSE'2025 Artifact Evaluation Track. Thanks for the invitation.
-- **2024/07:** I will serve as a paper reviewer in TOSEM'2024. Thanks for the invitation.
 - **2024/07:** We release BigCodeBench. Feel free to visit its [GitHub](https://github.com/bigcode-project/bigcodebench) homepage for more details.
-- **2024/06:** I will serve as a paper reviewer in CSCW'2024 (poster track). Thanks for the invitation.
 - **2024/05:** I will serve as a paper reviewer in NeurIPS'2024. Thanks for the invitation.
 - **2024/05:** One paper has been accepted in TOSEM.
 
