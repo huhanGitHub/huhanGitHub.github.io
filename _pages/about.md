@@ -24,7 +24,7 @@ My current work focuses on post-training large language models for code (SFT/RLH
 *🏆 Best Special Theme Paper Award @ EMNLP 2025*
 
 **② LLM Systems & AI Infrastructure: Inference Optimization & Performance Engineering** *(Core)*  
-My current work focuses on GPU/CPU performance optimization for production systems: redundant rendering detection (avg. **20% GPU performance improvement**); dynamic profiling, trace analysis, and LLM-based automated root cause analysis on decompiled binaries. Particularly focused on performance challenges in code-related LLM workloads.  
+On the systems side, I work on GPU/CPU performance optimization for production systems: redundant rendering detection (avg. **20% GPU performance improvement**); dynamic profiling, trace analysis, and LLM-based automated root cause analysis on decompiled binaries. Particularly focused on performance challenges in code-related LLM workloads.  
 *(FSE 2026 · TOSEM 2023 · First-author Patent, 2025 · MLSys · LLM Inference)*
 
 **③ Automated App Analysis & GUI Agent**  
