@@ -12,20 +12,25 @@ redirect_from:
 
 I am **Han Hu** (胡晗), a **Research Scientist** at **Huawei Hong Kong Research Center** *(Feb 2025 – Present)*.  
 I hold a Ph.D. in Computer Science from **Monash University** (2021–2024) and an M.S. from **Tsinghua University** (2020).  
-My research spans two main areas: **Code LLM** (post-training & evaluation, domain-specific model training, binary code understanding) and **LLM Systems** (inference optimization & GPU/CPU performance engineering, with a particular interest in code-related workloads). I also work on GUI agents and automated app analysis. My PhD publications have accumulated **1,000+ citations** (Google Scholar).
+I am the **lead algorithm designer** of an AI-driven performance analysis system deployed in production. I also work on **Code LLM** post-training, evaluation, and domain-specific model training. My publications have accumulated **1,000+ citations** (Google Scholar), with work at **NeurIPS**, FSE, and TOSEM.
 
-**Code LLM** · **LLM Post-training** · **LLM Inference** · **GPU Optimization** · **Binary Code Analysis** · **MLSys**
+**Code LLM** · **LLM Post-training** · **LLM Agents** · **Binary Code Analysis** · **Program Analysis** · **GPU Optimization** · **MLSys** · **AIOps**
 
 ### Research Interests
 
-**① Code LLM: Post-training, Domain Modeling & Evaluation** *(Core)*  
+**① Code LLM + Systems: AI-Driven Performance Analysis** *(Core)*  
+Applying Code LLM and program analysis expertise to production systems, I independently researched and implemented core AI algorithms of a performance analysis system deployed at scale:
+- **Ghost/Empty Rendering Detection**: identifying unnecessary GPU rendering cycles (**20% GPU performance improvement** in key scenarios of top commercial apps · *FSE 2026 · First-author Patent, 2025*)
+- **Binary Code Analysis**: training small models to recognize optimization levels and performance anomalies in compiled binaries *(findings to appear at a top SE conference)*
+- **Redundant Thread Detection**: identifying CPU thread redundancy in production applications (**3–5% CPU performance improvement** in targeted scenarios)
+- **LLM-based Automated Root Cause Attribution**: an agentic pipeline with decompilation integration, source code scope narrowing, and bug-chain inference *(2025)*
+
+*(FSE 2026 · TOSEM 2023 · First-author Patent, 2025 · MLSys · LLM Agents · AIOps)*
+
+**② Code LLM: Post-training, Domain Modeling & Evaluation** *(Core)*  
 My current work focuses on post-training large language models for code (SFT/RLHF) and training domain-specific small models; LLM benchmark construction and evaluation; AI coding tools. Downstream applications include LLM-driven program analysis, binary code understanding, and automated bug attribution.  
 *(Core contributor: [BigCodeBench](https://github.com/bigcode-project/bigcodebench) (ICLR 2025) · [StarCoder 2](https://github.com/bigcode-project/starcoder2) — widely adopted in the Code LLM community)*  
 *🏆 Best Special Theme Paper Award @ EMNLP 2025*
-
-**② LLM Systems & AI Infrastructure: Inference Optimization & Performance Engineering** *(Core)*  
-On the systems side, I work on GPU/CPU performance optimization for production systems: redundant rendering detection (avg. **20% GPU performance improvement**); dynamic profiling, trace analysis, and LLM-based automated root cause analysis on decompiled binaries. Particularly focused on performance challenges in code-related LLM workloads.  
-*(FSE 2026 · TOSEM 2023 · First-author Patent, 2025 · MLSys · LLM Inference)*
 
 **③ Automated App Analysis & GUI Agent**  
 Autonomous GUI agent for mobile app testing; dynamic app exploration; on-device ML model analysis (Android/iOS).  
