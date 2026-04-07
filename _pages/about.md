@@ -18,17 +18,12 @@ I am the **lead algorithm designer** of an AI-driven performance analysis system
 
 ### Research Interests
 
-**① Code LLM + Systems: AI-Driven Performance Analysis** *(Core)*  
-Applying Code LLM and program analysis expertise to production systems, I independently researched and implemented core AI algorithms of a performance analysis system deployed at scale:
-- **Ghost/Empty Rendering Detection**: identifying unnecessary GPU rendering cycles (**20% GPU performance improvement** in key scenarios of top commercial apps · *FSE 2026 · First-author Patent, 2025*)
-- **Binary Code Analysis**: training small models to recognize optimization levels and performance anomalies in compiled binaries *(findings to appear at a top SE conference)*
-- **Redundant Thread Detection**: identifying CPU thread redundancy in production applications (**3–5% CPU performance improvement** in targeted scenarios)
-- **LLM-based Automated Root Cause Attribution**: an agentic pipeline with decompilation integration, source code scope narrowing, and bug-chain inference *(2025)*
-
-*(FSE 2026 · TOSEM 2023 · First-author Patent, 2025 · MLSys · LLM Agents · AIOps)*
+**① AI-Driven Performance Analysis System** *(Code LLM · Compilation · Program Analysis · Systems)* *(Core)*  
+At the intersection of Code LLM, binary/compilation analysis, program analysis, and systems performance engineering, I independently researched and implemented core AI algorithms deployed at scale: **ghost rendering detection** (**20% GPU improvement** in key scenarios · *FSE 2026 · First-author Patent, 2025*), **binary code analysis** for optimization-level recognition *(top SE conference, to appear)*, **redundant thread detection** (**3–5% CPU improvement**), and **LLM-based automated root cause attribution** via an agentic decompilation pipeline *(2025)*.  
+*(FSE 2026 · TOSEM 2023 · First-author Patent, 2025 · MLSys · AIOps)*
 
 **② Code LLM: Post-training, Domain Modeling & Evaluation** *(Core)*  
-My current work focuses on post-training large language models for code (SFT/RLHF) and training domain-specific small models; LLM benchmark construction and evaluation; AI coding tools. Downstream applications include LLM-driven program analysis, binary code understanding, and automated bug attribution.  
+My current work focuses on post-training large language models for code (SFT/RLHF) and training domain-specific small models; LLM benchmark construction and evaluation; AI coding tools.  
 *(Core contributor: [BigCodeBench](https://github.com/bigcode-project/bigcodebench) (ICLR 2025) · [StarCoder 2](https://github.com/bigcode-project/starcoder2) — widely adopted in the Code LLM community)*  
 *🏆 Best Special Theme Paper Award @ EMNLP 2025*
 
