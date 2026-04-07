@@ -41,7 +41,7 @@ If you are interested in collaborating on research projects or joining our team,
 
 ---
 
-*This page and my CV are for personal reference only. Please do not submit, forward, or share my profile, this page, or any version of my CV to recruitment agencies, talent programs, or third-party platforms **without my explicit prior consent**. If you have a legitimate reason to reach out, please contact me directly at **[agmaiofhuhan@gmail.com](mailto:agmaiofhuhan@gmail.com)** — I am happy to share the latest version upon request.*
+*This page and my CV are for personal reference only. Please do not submit, forward, or share my profile, this page, or any version of my CV to recruitment agencies, talent programs, or third-party platforms **without my explicit prior consent**.*
 
 ## Latest News
 
