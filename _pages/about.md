@@ -11,7 +11,7 @@ redirect_from:
 ## About Me
 
 I am **Han Hu** (胡晗), a **Research Scientist** at **Huawei Hong Kong Research Center** *(Feb 2025 – Present)*.  
-I hold a Ph.D. in Computer Science from **Monash University** (2021–2024) and an M.S. from **Tsinghua University** (2020).  
+I hold a Ph.D. in Computer Science from **Monash University** (Jul 2021–Dec 2024), an M.S. from **Tsinghua University**, and a B.S. from **UESTC**.  
 I am the **lead algorithm designer** of an AI-driven performance analysis system deployed in production. I also work on **Code LLM** post-training, evaluation, and domain-specific model training. My PhD publications have accumulated **1,000+ citations** (Google Scholar), with work at NeurIPS, ICLR, FSE, ICSE, and TOSEM.
 
 **LLM**: Code LLM (SFT/RLHF) · Benchmark & Evaluation  
