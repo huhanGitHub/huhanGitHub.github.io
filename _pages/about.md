@@ -21,11 +21,11 @@ I am the **lead algorithm designer** of an AI-driven performance analysis system
 ### Research Interests
 
 **① AI-Driven Performance Analysis System** *(Code LLM · Compilation · Program Analysis · Systems)* *(Core)*  
-At the intersection of Code LLM, binary/compilation analysis, program analysis, and systems performance engineering, I independently researched and implemented core AI algorithms deployed at scale: **redundant GPU computation detection** (**20% GPU performance improvement** in key scenarios · *FSE 2026 · First-author Patent, 2025*), **binary code analysis** for optimization-level recognition *(top SE conference, to appear)*, **redundant thread detection** (**3–5% CPU improvement**), and **LLM-based automated root cause attribution** via an agentic decompilation pipeline *(2025)*.  
+In applied research, at the intersection of Code LLM, binary/compilation analysis, program analysis, and systems performance engineering, I independently researched and implemented core AI algorithms deployed at scale: **redundant GPU computation detection** (**20% GPU performance improvement** in key scenarios · *FSE 2026 · First-author Patent, 2025*), **binary code analysis** for optimization-level recognition *(top SE conference, to appear)*, **redundant thread detection** (**3–5% CPU improvement**), and **LLM-based automated root cause attribution** via an agentic decompilation pipeline *(2025)*.  
 *(FSE 2026 · TOSEM 2023 · First-author Patent, 2025 · MLSys · AIOps)*
 
 **② Code LLM: Post-training, Domain Modeling & Evaluation** *(Core)*  
-My current work focuses on post-training large language models for code (SFT/RLHF) and training domain-specific small models; LLM benchmark construction and evaluation; AI coding tools.  
+In fundamental research, my work focuses on post-training large language models for code (SFT/RLHF) and training domain-specific small models; LLM benchmark construction and evaluation; AI coding tools.  
 *(Core contributor: [BigCodeBench](https://github.com/bigcode-project/bigcodebench) (ICLR 2025) · [StarCoder 2](https://github.com/bigcode-project/starcoder2) — widely adopted in the Code LLM community)*  
 *🏆 Best Special Theme Paper Award @ EMNLP 2025*
 
