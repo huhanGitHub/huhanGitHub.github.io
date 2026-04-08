@@ -12,14 +12,16 @@ redirect_from:
 
 I am **Han Hu** (胡晗), a **Research Scientist** at **Huawei Hong Kong Research Center** *(Feb 2025 – Present)*.  
 I hold a Ph.D. in Computer Science from **Monash University** (2021–2024) and an M.S. from **Tsinghua University** (2020).  
-I am the **lead algorithm designer** of an AI-driven performance analysis system deployed in production. I also work on **Code LLM** post-training, evaluation, and domain-specific model training. My publications have accumulated **1,000+ citations** (Google Scholar), with work at NeurIPS, FSE, and TOSEM.
+I am the **lead algorithm designer** of an AI-driven performance analysis system deployed in production. I also work on **Code LLM** post-training, evaluation, and domain-specific model training. My publications have accumulated **1,000+ citations** (Google Scholar), with work at NeurIPS, ICLR, FSE, ICSE, and TOSEM.
 
-**Code LLM** · **LLM Post-training** · **LLM Agents** · **Binary Code Analysis** · **Program Analysis** · **GPU Optimization** · **MLSys** · **AIOps**
+**LLM**: Code LLM · LLM Post-training (SFT/RLHF) · LLM Agents · Benchmark & Evaluation  
+**AI Systems**: LLM Inference Optimization · GPU/CPU Optimization · MLSys · AIOps · AI Infrastructure  
+**Compilation & Program Analysis**: Binary Code Analysis · Decompilation · Static Analysis
 
 ### Research Interests
 
 **① AI-Driven Performance Analysis System** *(Code LLM · Compilation · Program Analysis · Systems)* *(Core)*  
-At the intersection of Code LLM, binary/compilation analysis, program analysis, and systems performance engineering, I independently researched and implemented core AI algorithms deployed at scale: **ghost rendering detection** (**20% GPU improvement** in key scenarios · *FSE 2026 · First-author Patent, 2025*), **binary code analysis** for optimization-level recognition *(top SE conference, to appear)*, **redundant thread detection** (**3–5% CPU improvement**), and **LLM-based automated root cause attribution** via an agentic decompilation pipeline *(2025)*.  
+At the intersection of Code LLM, binary/compilation analysis, program analysis, and systems performance engineering, I independently researched and implemented core AI algorithms deployed at scale: **redundant GPU computation detection** (**20% GPU performance improvement** in key scenarios · *FSE 2026 · First-author Patent, 2025*), **binary code analysis** for optimization-level recognition *(top SE conference, to appear)*, **redundant thread detection** (**3–5% CPU improvement**), and **LLM-based automated root cause attribution** via an agentic decompilation pipeline *(2025)*.  
 *(FSE 2026 · TOSEM 2023 · First-author Patent, 2025 · MLSys · AIOps)*
 
 **② Code LLM: Post-training, Domain Modeling & Evaluation** *(Core)*  
