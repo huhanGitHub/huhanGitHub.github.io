@@ -12,21 +12,21 @@ redirect_from:
 
 I am **Han Hu** (胡晗), a **Research Scientist** at **Huawei Hong Kong Research Center** *(Feb 2025 – Present)*.  
 I hold a Ph.D. in Computer Science from **Monash University** (Jul 2021–Dec 2024), an M.S. from **Tsinghua University**, and a B.S. from **UESTC**.  
-I work on **AI Coding** systems for real-world software development, spanning **Code LLM** post-training (SFT/RLHF), benchmark and evaluation, coding-agent optimization, GUI-agent-based verification, and AI-driven performance analysis. I currently lead **AI-assisted development agent evaluation and optimization** for HarmonyOS app development. My PhD publications have accumulated **1,000+ citations** (Google Scholar), including **5+ first-author CCF-A papers**, with work at NeurIPS, ICLR, FSE, ICSE, and TOSEM.
+I work on **AI Coding** systems for real-world software development, spanning **Code LLM** post-training (SFT/RLHF), benchmarking and evaluation, coding-agent optimization, GUI-agent-based verification, and AI-driven performance analysis. I currently lead a team developing **eval-driven coding-agent and LLM improvement** for HarmonyOS app development. My PhD publications have accumulated **1,000+ citations** (Google Scholar), including **5+ first-author CCF-A papers**, with work at NeurIPS, ICLR, FSE, ICSE, and TOSEM.
 
-**AI Coding**: Coding Agent · Code LLM Post-training (SFT/RLHF) · Benchmark & Evaluation · Eval-driven Optimization  
+**AI Coding**: Eval-driven Agent & LLM Improvement · Coding Agent · Code LLM Post-training (SFT/RLHF) · Benchmark & Evaluation  
 **Agent & Verification**: GUI Agent · Dynamic App Verification · Trajectory Analysis  
 **AI Infrastructure**: LLM-assisted Program Analysis · Binary Code Analysis · Performance Diagnosis · GPU/CPU Optimization
 
 ### Research Interests
 
-**① AI Coding: Evaluation & Optimization** *(Core)*  
-My core work is AI Coding infrastructure for real-world development workflows. At Huawei, I lead the team building the HarmonyOS/OpenHarmony coding-agent evaluation and optimization system for app development, connecting benchmark construction, dynamic GUI verification, leaderboard-based capability analysis, failure attribution, and eval-driven coding-agent and LLM improvement. This work was selected as a key technical foundation for **DevEco Code** and the official ArkTS AI Coding white paper presented in the **HDC 2026 keynote**.  
+**① AI Coding: Eval-driven Agent & LLM Improvement** *(Core)*  
+At Huawei, I lead the team that built a task-level automated evaluation system for HarmonyOS/OpenHarmony coding agents from the ground up, using it to drive coding-agent and LLM improvement. This work was selected as a key technical foundation for **[DevEco Code](https://gitcode.com/openharmony-sig/deveco-code)** and the official ArkTS AI Coding white paper presented in the **HDC 2026 keynote**.  
 *(AI Coding · Coding Agent Evaluation · Code LLM Post-training · SFT/RLHF · Eval-driven Optimization · SWE-OpenHarmony Benchmark · BigCodeBench · StarCoder 2)*
 
 **② AI Infrastructure & Performance Optimization**  
-I build AI-assisted infrastructure for client-side performance diagnosis and binary/code understanding, including mobile-binary compiler optimization detection (**ASE 2026**) and redundant GPU/thread detection (**FSE 2026**). The work achieves **20% GPU** and **3–5% CPU** improvements in key scenarios, is deployed in **DevEco Studio**, and is covered by my first-author **high-potential patent**.  
-*(AI Infrastructure · LLM-assisted Program Analysis · Binary Analysis · DevEco Studio)*
+This line of work focuses on AI-assisted performance diagnosis and binary/code understanding for client-side software, including mobile-binary compiler optimization detection (**ASE 2026**) and redundant GPU/thread detection (**FSE 2026**). The core work, **[ArkAnalyzer-HapRay](https://gitcode.com/SMAT/ArkAnalyzer-HapRay)**, achieves **20% GPU** and **3–5% CPU** improvements in key scenarios and was selected for **HDC 2026** as a showcased performance-analysis tool; the related first-author **high-potential patent** has been adopted into **DevEco Studio**.  
+*(AI Infrastructure · LLM-assisted Program Analysis · Binary Analysis · Performance Optimization · DevEco Studio · HapRay)*
 
 **③ GUI Agent**  
 My earlier GUI-agent work covers mobile app exploration, cross-device GUI adaptation, and behavior verification across Android, iOS, and HarmonyOS. It now serves as the executable verification foundation for AI Coding evaluation, with first-author work at **NeurIPS** and **TOSEM**.  
