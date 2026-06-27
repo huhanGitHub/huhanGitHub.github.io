@@ -9,59 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- [CV](https://github.com/huhanGitHub/huhan.github.io/raw/master/files/resume_eng.pdf), updated 05/2024.-->
-
-
-## Education Background
+## Education
 
 **Monash University**, Australia  
-*Ph.D. in Computer Science (2021.07 – 2024.11)*  
-Supervised by Prof. Chunyang Chen (now TUM), Dr. Xiao Chen, Dr. Chakkrit Tantithamthavorn, and Prof. David Lo (during my visit to SMU).
+*Ph.D. in Computer Science (2021.07 - 2024.12)*  
+Supervised by Prof. Chunyang Chen, Dr. Xiao Chen, Dr. Chakkrit Tantithamthavorn, and Prof. David Lo during my visit to SMU.
 
 **Tsinghua University**, China  
-*M.S. in Engineering (2017.09 – 2020.06)*  
-Supervised by Prof. Min Gu.
+*M.S. in Engineering (2017.09 - 2020.06)*  
 
 **University of Electronic Science and Technology of China (UESTC)**, China  
-*B.S. in Digital Animation (2013.09 – 2017.06)*
-
-
+*B.S. in Software Engineering (2013.09 - 2017.06)*
 
 ## Work Experience
 
 **Huawei Hong Kong Research Center**, Hong Kong  
-*Research Scientist (2025.02 – Present)*  
-Research on performance analysis, GUI Agent, and automated app analysis (AI4SE).
+*Senior Research Scientist (2025.02 - Present)*  
+AI Coding, coding-agent evaluation and optimization, Code LLM evaluation/post-training, GUI-agent-based verification, and client-side performance optimization for HarmonyOS app development.
 
 **Ji Hua Laboratory**, Foshan  
-*Researcher & Developer (2020.06 – 2021.07)*  
-Researcher and developer in AI4SE.
+*Researcher & Developer (2020.06 - 2021.07)*  
+Research and development in AI4SE.
 
 **Monash University**, Australia  
-*Teaching Associate & Assistant Lecturer (Part-time, 2022.03 – 2024.12)*  
-Taught software engineering courses, practiced my oral English for free, with tutor salary included.
-
+*Teaching Associate & Assistant Lecturer, part-time (2022.03 - 2024.12)*  
+Taught software engineering courses.
 
 ## Academic Service
 
-### **Program Committee**
-- ACL'2020, 2023 (CORE A\*, CCF A)
-- EMNLP'2023 (CORE A\*, CCF B)
-- AACL-IJCNLP'2020, 2022, 2023 (CORE B, CCF C)
-- ICONIP'2019 (CORE A, CCF C)
+### Program Committee
+- ACL 2020, 2023
+- EMNLP 2023
+- AACL-IJCNLP 2020, 2022, 2023
+- ICONIP 2019
 
-### **Paper Reviewer**
-- ISSRE'2024 (CORE A, CCF B)
-- NeurIPS'2024 (CORE A\*, CCF A)
-- SIGIR'2023 (CORE A\*, CCF A)
-- SANER'2023 (CORE A, CCF B)
-- EACL'2023 (CORE A)
-- EMNLP'2022, 2023 (CORE A\*, CCF B)
-
+### Paper Reviewer
+- ICML 2025
+- ICLR 2025
+- NeurIPS 2024
+- ISSRE 2024
+- SIGIR 2023
+- SANER 2023
+- EACL 2023
+- EMNLP 2022, 2023
 
 ## Patents
-Method, System, Electronic Device, and Storage Medium for Predicting Properties of Luminescent Materials, Publication Nos. CN112396134B (first author) and CN113470761B
 
+- First-author enterprise patent on redundant GPU computation detection and client-side performance optimization.
+- Method, System, Electronic Device, and Storage Medium for Predicting Properties of Luminescent Materials, Publication Nos. CN112396134B and CN113470761B.
 
-## Personal life
-My friends call me han cha (晗恰), duck brother (鸭哥) or old hu. I'm a typical Sichuanese male who enjoys humor, making jokes, being talkative, good food, and sometimes touching fish. 
+## Personal Life
+
+My friends call me Han Cha (晗恰), Duck Brother (鸭哥), or Old Hu. I am a Sichuanese who enjoys humor, good food, research conversations, and occasionally pretending that debugging is a lifestyle choice.

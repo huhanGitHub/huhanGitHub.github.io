@@ -9,103 +9,70 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-<!--
+## Selected Publications
 
-### Under Review & In Progress
-- first author LLM4SE-based pub * 1 (Core A*, CCF A)
-- corresponding author pub * 2 (Core A*, CCF A)
-
----
-
-### Publications
-
-**BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions**<br>
-<a href="https://arxiv.org/abs/2406.15877" style="text-decoration: none; color: blue;">arXiv</a> |
-<a href="https://github.com/bigcode-project/bigcodebench" style="text-decoration: none; color: blue;">github</a> |
-<a href="https://huggingface.co/blog/leaderboard-bigcodebench" style="text-decoration: none; color: blue;">Huggingface article</a><br>
-Terry Yue Zhuo, Minh Chien Vu, Jenny Chim,<span style="font-weight: bold;">Han Hu</span>, et al.<br>
-Preprint
+**SWE-OpenHarmony Benchmark: Evaluating LLMs and Coding Agents on OpenHarmony App Development**  
+Project leader.  
+**Technical Report, to appear**. Formal evaluation and optimization report for OpenHarmony coding agents, selected as a key technical foundation for **DevEco Code** and the official ArkTS AI Coding white paper presented in the **HDC 2026 keynote**.
 
 ---
 
-(6) **Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey**<br>
-<a href="https://dl.acm.org/doi/abs/10.1145/3664810" style="text-decoration: none; color: blue;">Paper</a> |
-<a href="https://github.com/huhanGitHub/guidedExplore" style="text-decoration: none; color: blue;">Code</a> |
-<a href="#" style="text-decoration: none; color: blue;">Media</a><br>
-<span style="font-weight: bold;">Han Hu</span>, Han Wang, Ruiqi Dong, Xiao Chen, Chunyang Chen<br>
-TOSEM 2024 (<strong>CORE A*, CCF A</strong>)
+**Source-Free Detection and Impact Analysis of Compiler Optimization Problems in Mobile Applications**  
+[arXiv](https://arxiv.org/abs/2606.23512)  
+**Han Hu**, Xiaoheng Xie, Bo Sun, Jian Gu, Gang Fan, Li Li.  
+**ASE 2026** (**CCF A**, **CORE A\***).
 
 ---
 
-**StarCoder 2 and The Stack v2: The Next Generation**<br>
-<a href="https://arxiv.org/abs/2402.19173" style="text-decoration: none; color: blue;">arXiv</a> |
-<a href="https://github.com/bigcode-project/starcoder2" style="text-decoration: none; color: blue;">StarCoder2 github</a> <br>
-Anton Lozhkov et al.<br>
-Preprint
+**Phantom Rendering Detection: Identifying and Analyzing Unnecessary UI Computations**  
+FSE 2026 paper; related first-author **high-potential patent**.  
+**FSE 2026** (**CCF A**, **CORE A\***). Core technology deployed in **DevEco Studio**, the official HarmonyOS development IDE.
 
 ---
 
-(5) **A First Look at On-device Models on iOS**<br>
-<a href="https://dl.acm.org/doi/abs/10.1145/3617177" style="text-decoration: none; color: blue;">Paper</a> | 
-<a href="https://github.com/huhanGitHub/iOS-App-database" style="text-decoration: none; color: blue;">Code</a> | 
-<a href="#" style="text-decoration: none; color: blue;">Media</a><br>
-<span style="font-weight: bold;">Han Hu</span>, Yujin Huang, Qiuyuan Chen, Terry Yue Zhuo, Chunyang Chen<br>
-TOSEM 2023 (<strong>CORE A*, CCF A</strong>, ICSE 2024-JF)
+**BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions**  
+[arXiv](https://arxiv.org/abs/2406.15877) |
+[GitHub](https://github.com/bigcode-project/bigcodebench) |
+[Hugging Face article](https://huggingface.co/blog/leaderboard-bigcodebench)  
+Terry Yue Zhuo, Minh Chien Vu, Jenny Chim, **Han Hu**, et al.  
+**ICLR 2025**, oral. Widely used Code LLM benchmark; 1k+ GitHub stars.
 
 ---
 
-(4) **Training-free Lexical Backdoor Attacks on Language Models**<br>
-Yujin Huang, Terry Yue Zhuo, Qiongkai Xu, <span style="font-weight: bold;">Han Hu</span>, Xingliang Yuan, Chunyang Chen<br>
-WWW 2023 (<strong>CORE A*, CCF A</strong>)
+**Enhancing GUI Exploration Coverage of Android Apps with Deep Link-Integrated Monkey**  
+[Paper](https://dl.acm.org/doi/abs/10.1145/3664810) |
+[Code](https://github.com/huhanGitHub/guidedExplore)  
+**Han Hu**, Han Wang, Ruiqi Dong, Xiao Chen, Chunyang Chen.  
+**ACM TOSEM 2024** (**CCF A**, **CORE A\***).
 
 ---
 
-(3) Pairwise GUI Dataset Construction Between Android Phones and Tablets**<br>
-<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/bc4cff0b37ccab13e98b6128d89ca172-Paper-Datasets_and_Benchmarks.pdf" style="text-decoration: none; color: blue;">Paper</a> | 
-<a href="https://github.com/huhanGitHub/papt" style="text-decoration: none; color: blue;">Code</a> | 
-<a href="https://neurips.cc/virtual/2023/poster/73679" style="text-decoration: none; color: blue;">Media</a><br>
-<span style="font-weight: bold;">Han Hu</span>, Haolan Zhan, Yujin Huang, Di Liu<br>
-NeurIPS 2023 (<strong>CORE A*, CCF A</strong>, Dataset & Benchmark)
+**Pairwise GUI Dataset Construction Between Android Phones and Tablets**  
+[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/bc4cff0b37ccab13e98b6128d89ca172-Paper-Datasets_and_Benchmarks.pdf) |
+[Code](https://github.com/huhanGitHub/papt) |
+[Media](https://neurips.cc/virtual/2023/poster/73679)  
+**Han Hu**, Haolan Zhan, Yujin Huang, Di Liu.  
+**NeurIPS 2024** (**CCF A**, **CORE A\***).
 
 ---
 
-(2) **Automated Mapping of Adaptive App GUIs from Phone to TV**<br>
-<a href="https://dl.acm.org/doi/abs/10.1145/3631968" style="text-decoration: none; color: blue;">Paper</a> | 
-<a href="#" style="text-decoration: none; color: blue;">Code</a> | 
-<a href="#" style="text-decoration: none; color: blue;">Media</a><br>
-<span style="font-weight: bold;">Han Hu</span>, Ruiqi Dong, John Grundy, Thai Minh Nguyen, Huaxiao Liu, Chunyang Chen<br>
-TOSEM 2023 (<strong>CORE A*, CCF A</strong>, ICSE 2024-JF)
+**StarCoder 2 and The Stack v2: The Next Generation**  
+[arXiv](https://arxiv.org/abs/2402.19173) |
+[GitHub](https://github.com/bigcode-project/starcoder2)  
+Anton Lozhkov et al.  
+Open Code LLM project from BigCode; 1.9k+ GitHub stars.
 
 ---
 
-**Robustness of on-device Models: Adversarial Attack to Deep Learning Models on Android Apps**<br>
-Yujin Huang, <span style="font-weight: bold;">Han Hu</span>, Chunyang Chen<br>
-ICSE-SEIP'2021 
+**A First Look at On-device Models on iOS**  
+[Paper](https://dl.acm.org/doi/abs/10.1145/3617177) |
+[Code](https://github.com/huhanGitHub/iOS-App-database)  
+**Han Hu**, Yujin Huang, Qiuyuan Chen, Terry Yue Zhuo, Chunyang Chen.  
+**ACM TOSEM 2023** (**CCF A**, **CORE A\***, ICSE 2024-JF).
 
 ---
 
-(1) **Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction**<br>
-Qiuyuan Chen, Xin Xia, <span style="font-weight: bold;">Han Hu</span>, David Lo, Shanping Li<br>
-TOSEM 2021 (<strong>CORE A*, CCF A</strong>, ICSE 2021-JF)
-
----
-
-### Before PhD
-
-**Code Generation from Supervised Code Embeddings**<br>
-<span style="font-weight: bold;">Han Hu</span>, Qiuyuan Chen, Zhaoyi Liu<br>
-ICONIP'2019 (CORE A, CCF C)
-
----
-
-**Code Summarization with Abstract Syntax Tree**<br>
-Qiuyuan Chen, <span style="font-weight: bold;">Han Hu</span>, Zhaoyi Liu<br>
-ICONIP'2019 (CORE A, CCF C)
-
----
-
-**Teacher-Student Learning and Post-Processing for Robust BiLSTM Mask-Based Acoustic Beamforming**<br>
-Zhaoyi Liu, Qiuyuan Chen, <span style="font-weight: bold;">Han Hu</span>, Haoyu Tang, YX Zou<br>
-ICONIP'2019 (CORE A, CCF C)
-
--->
+**Automated Mapping of Adaptive App GUIs from Phone to TV**  
+[Paper](https://dl.acm.org/doi/abs/10.1145/3631968)  
+**Han Hu**, Ruiqi Dong, John Grundy, Thai Minh Nguyen, Huaxiao Liu, Chunyang Chen.  
+**ACM TOSEM 2023** (**CCF A**, **CORE A\***, ICSE 2024-JF).
