@@ -12,7 +12,7 @@ redirect_from:
 
 I am **Han Hu** (胡晗), a **Research Scientist** at **Huawei Hong Kong Research Center** *(Feb 2025 – Present)*.  
 I hold a Ph.D. in Computer Science from **Monash University** (Jul 2021–Dec 2024), an M.S. from **Tsinghua University**, and a B.S. from **UESTC**.  
-I work on **AI Coding** systems for real-world software development, spanning **Code LLM** post-training (SFT/RLHF), benchmarking and evaluation, coding-agent optimization, GUI-agent-based verification, and AI-driven performance analysis. I currently serve as the project lead for **eval-driven coding-agent and LLM improvement** in HarmonyOS app development. Since my Ph.D., I have published **5+ first-author CCF-A / CORE A\*** papers across top AI and software-engineering venues, with work at NeurIPS, ICLR, FSE, ICSE, and TOSEM.
+I work on **AI Coding** systems for real-world software development, spanning **Code LLM** post-training (SFT/RLHF), benchmarking and evaluation, coding-agent optimization, GUI-agent-based verification, and AI-driven performance analysis. I currently serve as the project lead for **eval-driven coding-agent and LLM improvement** in HarmonyOS app development. My Ph.D. research produced **5+ first-author CCF-A / CORE A\*** papers across top AI and software-engineering venues, with work at NeurIPS, ICLR, FSE, ICSE, and TOSEM.
 
 **AI Coding**: Coding Agent Evaluation & Optimization · Code LLM Post-training (SFT/RLHF) · Benchmarking  
 **AI for Software Engineering**: GUI Agent · LLM-assisted Program Analysis · Client-side Performance Optimization
