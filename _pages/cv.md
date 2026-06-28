@@ -25,7 +25,7 @@ Supervised by Prof. Chunyang Chen, Dr. Xiao Chen, Dr. Chakkrit Tantithamthavorn,
 
 **Huawei Hong Kong Research Center**, Hong Kong  
 *Senior Research Scientist (2025.02 - Present)*  
-AI Coding, coding-agent evaluation and optimization, Code LLM evaluation/post-training, GUI-agent-based verification, and client-side performance optimization for HarmonyOS app development.
+AI Coding researcher for HarmonyOS app development.
 
 **Ji Hua Laboratory**, Foshan  
 *Researcher & Developer (2020.06 - 2021.07)*  
