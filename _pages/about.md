@@ -20,7 +20,7 @@ I work on **AI Coding** systems for real-world software development, spanning **
 ### Research Interests
 
 **① AI Coding: Eval-driven Agent & LLM Improvement** *(Core)*  
-At Huawei, I serve as the project lead for building a task-level automated evaluation system for HarmonyOS/OpenHarmony coding agents from the ground up, using it to drive coding-agent and LLM improvement. This work was selected as a key technical foundation for **[DevEco Code](https://gitcode.com/openharmony-sig/deveco-code)** and the official ArkTS AI Coding white paper presented in the **HDC 2026 keynote**.  
+At Huawei, I serve as the project lead for building a task-level automated evaluation system for HarmonyOS/OpenHarmony coding agents from the ground up, using it to drive coding-agent and LLM improvement. This work was selected as a key technical foundation for **[DevEco Code](https://gitcode.com/openharmony-sig/deveco-code)** and the official ArkTS AI Coding white paper presented in the **HDC 2026 keynote**. The **SWE-OpenHarmony Benchmark**, which I lead, is scheduled to launch on the official HarmonyOS website as an official benchmark and leaderboard for incremental OpenHarmony app development *(coming soon)*.  
 *([DevEco Code](https://gitcode.com/openharmony-sig/deveco-code) · SWE-OpenHarmony Benchmark · BigCodeBench · StarCoder 2 · Coding Agent Evaluation · Code LLM Post-training · SFT/RLHF · Eval-driven Optimization)*
 
 **② AI Infrastructure & Performance Optimization**  

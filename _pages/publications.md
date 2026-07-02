@@ -13,7 +13,7 @@ author_profile: true
 
 **SWE-OpenHarmony Benchmark: Evaluating LLMs and Coding Agents on OpenHarmony App Development**  
 Project leader.  
-**Technical Report, to appear**. Formal evaluation and optimization report for OpenHarmony coding agents, selected as a key technical foundation for **DevEco Code** and the official ArkTS AI Coding white paper presented in the **HDC 2026 keynote**.
+**Technical Report, to appear**. Formal evaluation and optimization report for OpenHarmony coding agents, selected as a key technical foundation for **DevEco Code** and the official ArkTS AI Coding white paper presented in the **HDC 2026 keynote**. The benchmark is scheduled to launch on the official HarmonyOS website with model evaluation results, focusing on **incremental app development** and realistic software-engineering workflows rather than bug-fix tasks *(coming soon)*.
 
 ---
 
