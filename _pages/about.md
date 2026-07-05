@@ -50,7 +50,7 @@ If you are interested in collaborating on research projects or joining our team,
 
 ## Latest News
 
-- **Now:** Drinking Coke Zero, watching coding agents program, and finding better ways to provide emotional value to LLMs.
+- **Now:** Trying to be a good LLM cheerleader, watching coding agents program, and finding better ways to provide emotional value to LLMs.
 - **2026/07:** **[FEABench-Ark](https://developer.huawei.com/consumer/cn/doc/guidebook/aitech2026-4-2-0000002594762498) / [SWE-OpenHarmony Benchmark](https://gitcode.com/SMAT/SWE-OpenHarmony)** was selected and featured in the official **[ArkTS AI Coding white paper](https://developer.huawei.com/consumer/cn/doc/guidebook/aitech2026-1-0000002594922404)** released at the **HDC 2026 main conference**.
 - **2026/06:** Our paper *Source-Free Detection and Impact Analysis of Compiler Optimization Problems in Mobile Applications* was accepted at **ASE 2026**.
 - **2025/10:** Our paper *Phantom Rendering Detection: Identifying and Analyzing Unnecessary UI Computations* was accepted at FSE 2026.
