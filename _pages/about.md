@@ -29,7 +29,7 @@ This work was selected and showcased as a representative evaluation-and-optimiza
 *([DevEco Code](https://gitcode.com/openharmony-sig/deveco-code) · [DevEco CLI](https://gitcode.com/openharmony-sig/deveco-cli) · [SWE-OpenHarmony Benchmark](https://gitcode.com/SMAT/SWE-OpenHarmony) · BigCodeBench · StarCoder 2 · Coding Agent Evaluation · Code LLM Post-training · SFT/RLHF · Eval-driven Optimization)*
 
 **② AI Infrastructure & Performance Optimization**  
-This line of work focuses on AI-assisted performance diagnosis and binary/code understanding for client-side software, including mobile-binary compiler optimization detection (**ASE 2026**) and redundant GPU/thread detection (**FSE 2026**). The core work, **[ArkAnalyzer-HapRay](https://gitcode.com/SMAT/ArkAnalyzer-HapRay)**, achieves **20% GPU** and **3–5% CPU** improvements in key scenarios and was selected for **HDC 2026** as a showcased performance-analysis tool; the related first-author **high-potential patent** has been adopted into **DevEco Studio**.  
+This line of work focuses on AI-assisted performance diagnosis and binary/code understanding for client-side software, including mobile-binary compiler optimization detection (**ASE 2026**) and redundant GPU/thread detection (**FSE 2026**). The core work, **[ArkAnalyzer-HapRay](https://gitcode.com/SMAT/ArkAnalyzer-HapRay)**, achieves **20% GPU** and **3–5% CPU** improvements in key scenarios and was selected for **HDC 2026** as a showcased performance-analysis tool. My related first-author high-potential patent has been adopted into **DevEco Studio**.  
 *(AI Infrastructure · LLM-assisted Program Analysis · Binary Analysis · Performance Optimization · DevEco Studio · HapRay)*
 
 **③ GUI Agent**  
@@ -55,11 +55,6 @@ If you are interested in collaborating on research projects or joining our team,
 - **2026/06:** Our paper *Source-Free Detection and Impact Analysis of Compiler Optimization Problems in Mobile Applications* was accepted at **ASE 2026**.
 - **2025/10:** Our paper *Phantom Rendering Detection: Identifying and Analyzing Unnecessary UI Computations* was accepted at FSE 2026.
 - **2025/10:** Our paper *InterIDEAS: Philosophical Intertextuality via LLMs* was accepted at EMNLP 2025 and received the **Best Special Theme Paper Award**.
-- **2025/06:** Our paper *Activity Transition Graph Generation: How Far Are We?* was accepted at ACM TOSEM.
-- **2024/12:** I will serve as a paper reviewer in ICML'2025. Thanks for the invitation.
 - **2024/12:** I was awarded the Doctor of Philosophy degree! I am now Dr. Han Hu. From July 2021 to December 2024, what a memorable journey my PhD has been!
 - **2024/09:** Our paper *Pairwise GUI Dataset Construction between Android Phones and Tablets* was accepted at **NeurIPS 2024**.
-- **2024/08:** I will serve as a paper reviewer in ICLR'2025. Thanks for the invitation.
 - **2024/07:** We release BigCodeBench. Feel free to visit its [GitHub](https://github.com/bigcode-project/bigcodebench) homepage for more details.
-- **2024/05:** I will serve as a paper reviewer in NeurIPS'2024. Thanks for the invitation.
-- **2024/05:** One paper has been accepted in TOSEM.
