@@ -11,7 +11,7 @@ author_profile: true
 
 ## Selected Publications and Systems
 
-### AI Coding Systems, Benchmarks, and Agents
+## 1. AI Coding Systems, Benchmarks, and Agents
 
 **SWE-OpenHarmony Benchmark: Evaluating LLMs and Coding Agents on OpenHarmony App Development**  
 [GitCode](https://gitcode.com/SMAT/SWE-OpenHarmony)  
@@ -66,7 +66,7 @@ Anton Lozhkov et al.
 
 ---
 
-### AI Systems, Program Analysis, and Performance Optimization
+## 2. AI Systems, Program Analysis, and Performance Optimization
 
 **ArkAnalyzer-HapRay: AI-assisted Performance Diagnosis for HarmonyOS/OpenHarmony Apps**  
 [GitCode](https://gitcode.com/SMAT/ArkAnalyzer-HapRay)  
