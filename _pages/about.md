@@ -11,6 +11,8 @@ redirect_from:
 ## About Me
 
 I am **Han Hu** (胡晗), a **Research Scientist** at **Huawei Hong Kong Research Center** *(Feb 2025 – Present)*.  
+At Huawei, I work on evaluation-driven optimization for coding agents and Code LLMs in HarmonyOS/OpenHarmony app development.
+
 I hold a Ph.D. in Computer Science from **Monash University** (Jul 2021–Dec 2024), an M.S. from **Tsinghua University**, and a B.S. from **UESTC**.  
 
 My Ph.D. research produced **5+ first-author CCF-A / CORE A\*** papers across top AI and software-engineering venues, with work at NeurIPS, ICLR, FSE, ICSE, and TOSEM.
@@ -21,7 +23,7 @@ My Ph.D. research produced **5+ first-author CCF-A / CORE A\*** papers across to
 ### Research Interests
 
 **① AI Coding: Eval-driven Agent & LLM Improvement** *(Core)*  
-At Huawei, I work on evaluation-driven optimization for coding agents and Code LLMs. I serve as the project lead for **[FEABench-Ark](https://developer.huawei.com/consumer/cn/doc/guidebook/aitech2026-4-2-0000002594762498) / [SWE-OpenHarmony Benchmark](https://gitcode.com/SMAT/SWE-OpenHarmony)**, the evaluation-and-optimization foundation for **[DevEco Code](https://gitcode.com/openharmony-sig/deveco-code)** and **[DevEco CLI](https://gitcode.com/openharmony-sig/deveco-cli)**.
+I serve as the project lead for **[FEABench-Ark](https://developer.huawei.com/consumer/cn/doc/guidebook/aitech2026-4-2-0000002594762498) / [SWE-OpenHarmony Benchmark](https://gitcode.com/SMAT/SWE-OpenHarmony)**, the evaluation-and-optimization foundation for **[DevEco Code](https://gitcode.com/openharmony-sig/deveco-code)** and **[DevEco CLI](https://gitcode.com/openharmony-sig/deveco-cli)**.
 
 This work was selected and showcased as a representative evaluation-and-optimization framework in the official **[ArkTS AI Coding white paper](https://developer.huawei.com/consumer/cn/doc/guidebook/aitech2026-1-0000002594922404)** released at the **HDC 2026 main conference**, and will be further developed into the official framework for HarmonyOS AI-assisted development. As part of this broader evaluation-and-optimization effort, DevEco Code has achieved the **strongest performance** among evaluated open-source LLM+agent baselines for **ArkTS coding tasks**.  
 *([DevEco Code](https://gitcode.com/openharmony-sig/deveco-code) · [SWE-OpenHarmony Benchmark](https://gitcode.com/SMAT/SWE-OpenHarmony) · BigCodeBench · StarCoder 2)*
@@ -48,7 +50,7 @@ If you are interested in collaborating on research projects or joining our team,
 
 ## Latest News
 
-- **2026/07:** **[FEABench-Ark](https://developer.huawei.com/consumer/cn/doc/guidebook/aitech2026-4-2-0000002594762498) / [SWE-OpenHarmony Benchmark](https://gitcode.com/SMAT/SWE-OpenHarmony)** was selected and featured in the official **[ArkTS AI Coding white paper](https://developer.huawei.com/consumer/cn/doc/guidebook/aitech2026-1-0000002594922404)** released at the **HDC 2026 main conference**.
+- **2026/06:** **[FEABench-Ark](https://developer.huawei.com/consumer/cn/doc/guidebook/aitech2026-4-2-0000002594762498) / [SWE-OpenHarmony Benchmark](https://gitcode.com/SMAT/SWE-OpenHarmony)** was selected and featured in the official **[ArkTS AI Coding white paper](https://developer.huawei.com/consumer/cn/doc/guidebook/aitech2026-1-0000002594922404)** released at the **HDC 2026 main conference**.
 - **2026/06:** Our paper *Source-Free Detection and Impact Analysis of Compiler Optimization Problems in Mobile Applications* was accepted at **ASE 2026**.
 - **2025/10:** Our paper *Phantom Rendering Detection: Identifying and Analyzing Unnecessary UI Computations* was accepted at FSE 2026.
 - **2025/10:** Our paper *InterIDEAS: Philosophical Intertextuality via LLMs* was accepted at EMNLP 2025 and received the **Best Special Theme Paper Award**.
