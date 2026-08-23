@@ -13,9 +13,11 @@ author_profile: true
 
 ## 1. AI Coding Systems, Benchmarks, and Agents
 
-**SWE-OpenHarmony Benchmark: Evaluating LLMs and Coding Agents on OpenHarmony App Development**  
+**OpenHarmony Bench: Evaluating LLMs and Coding Agents on OpenHarmony App Development**  
+[Official Website](https://bench.matrix.openharmony.cn/) |
+[arXiv](https://arxiv.org/abs/2608.16022) |
 [GitCode](https://gitcode.com/SMAT/SWE-OpenHarmony)  
-Project leader. **2026 Technical Report, to appear**. Selected as one of the evaluation and optimization benchmarks for **DevEco Code** and official HarmonyOS AI-assisted development, and planned to be showcased on the HarmonyOS official website.  
+Project leader. **2026 Technical Report**. The benchmark, tasks, tests, evaluation scripts, and leaderboard are released through the official OpenHarmony Bench website. Earlier versions were selected as the evaluation-and-optimization foundation for **DevEco Code** and official HarmonyOS AI-assisted development.  
 *Keywords: AI Coding, Coding Agent Evaluation, OpenHarmony, ArkTS, Incremental App Development, Benchmarking, Eval-driven Optimization, DevEco Code.*
 
 ---

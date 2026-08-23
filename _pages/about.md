@@ -23,10 +23,10 @@ My Ph.D. research produced **5+ first-author CCF-A / CORE A\*** papers across to
 ### Research Interests
 
 **① AI Coding: Eval-driven Agent & LLM Improvement** *(Core)*  
-I serve as the project lead for **[FEABench-Ark](https://developer.huawei.com/consumer/cn/doc/guidebook/aitech2026-4-2-0000002594762498) / [SWE-OpenHarmony Benchmark](https://gitcode.com/SMAT/SWE-OpenHarmony)**, the evaluation-and-optimization foundation for **[DevEco Code](https://gitcode.com/openharmony-sig/deveco-code)** and **[DevEco CLI](https://gitcode.com/openharmony-sig/deveco-cli)**.
+I serve as the project lead for **[OpenHarmony Bench](https://bench.matrix.openharmony.cn/)** ([arXiv](https://arxiv.org/abs/2608.16022)), an app-level benchmark and leaderboard for evaluating LLMs and coding agents on OpenHarmony ArkTS app development. It is the evaluation-and-optimization foundation for **[DevEco Code](https://gitcode.com/openharmony-sig/deveco-code)** and **[DevEco CLI](https://gitcode.com/openharmony-sig/deveco-cli)**.
 
-This work was selected and showcased as a representative evaluation-and-optimization framework in the official **[ArkTS AI Coding white paper](https://developer.huawei.com/consumer/cn/doc/guidebook/aitech2026-1-0000002594922404)** released at the **HDC 2026 main conference**, and will be further developed into the official framework for HarmonyOS AI-assisted development. As part of this broader evaluation-and-optimization effort, DevEco Code has achieved the **strongest performance** among evaluated open-source LLM+agent baselines for ArkTS coding tasks.  
-*([DevEco Code](https://gitcode.com/openharmony-sig/deveco-code) · [SWE-OpenHarmony Benchmark](https://gitcode.com/SMAT/SWE-OpenHarmony) · BigCodeBench · StarCoder 2)*
+Earlier versions were selected and showcased as a representative evaluation-and-optimization framework in the official **[ArkTS AI Coding white paper](https://developer.huawei.com/consumer/cn/doc/guidebook/aitech2026-1-0000002594922404)** released at the **HDC 2026 main conference**. The benchmark, tasks, tests, evaluation scripts, and leaderboard are now released through the official **[OpenHarmony Bench](https://bench.matrix.openharmony.cn/)** website. As part of this broader evaluation-and-optimization effort, DevEco Code has achieved the **strongest performance** among evaluated open-source LLM+agent baselines for ArkTS coding tasks.  
+*([DevEco Code](https://gitcode.com/openharmony-sig/deveco-code) · [OpenHarmony Bench](https://bench.matrix.openharmony.cn/) · BigCodeBench · StarCoder 2)*
 
 **② AI Infrastructure & Performance Optimization**  
 This line of work focuses on AI-assisted performance diagnosis and binary/code understanding for client-side software, including mobile-binary compiler optimization detection (**ASE 2026**) and redundant GPU/thread detection (**FSE 2026**). The core work, **[ArkAnalyzer-HapRay](https://gitcode.com/SMAT/ArkAnalyzer-HapRay)**, achieves **20% GPU** and **3–5% CPU** improvements in key scenarios and was selected for **HDC 2026** as a showcased performance-analysis tool. My related first-author high-potential patent has been adopted into **DevEco Studio**.  
@@ -50,7 +50,8 @@ If you are interested in collaborating on research projects or joining our team,
 
 ## Latest News
 
-- **2026/06:** **[FEABench-Ark](https://developer.huawei.com/consumer/cn/doc/guidebook/aitech2026-4-2-0000002594762498) / [SWE-OpenHarmony Benchmark](https://gitcode.com/SMAT/SWE-OpenHarmony)** was selected and featured in the official **[ArkTS AI Coding white paper](https://developer.huawei.com/consumer/cn/doc/guidebook/aitech2026-1-0000002594922404)** released at the **HDC 2026 main conference**.
+- **2026/08:** **[OpenHarmony Bench](https://bench.matrix.openharmony.cn/)** was released with its official website, leaderboard, and **[arXiv technical report](https://arxiv.org/abs/2608.16022)**.
+- **2026/06:** An earlier version of **OpenHarmony Bench** was selected and featured in the official **[ArkTS AI Coding white paper](https://developer.huawei.com/consumer/cn/doc/guidebook/aitech2026-1-0000002594922404)** released at the **HDC 2026 main conference**.
 - **2026/06:** Our paper *Source-Free Detection and Impact Analysis of Compiler Optimization Problems in Mobile Applications* was accepted at **ASE 2026**.
 - **2025/10:** Our paper *Phantom Rendering Detection: Identifying and Analyzing Unnecessary UI Computations* was accepted at FSE 2026.
 - **2025/10:** Our paper *InterIDEAS: Philosophical Intertextuality via LLMs* was accepted at EMNLP 2025 and received the **Best Special Theme Paper Award**.
